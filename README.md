@@ -35,4 +35,5 @@ Push (hold for 4 seconds): On / Off
 1. M5EPD.h doesn't expose TFT_eSPI's "fontHeight()" function, so it's hard coded for the current font. It could find this out by displaying two lines of text, and seeing what the canvas.getCursorY(); jumps to when the 2nd line's drawn.                 
 2. The program parses the book, finding where the start/stop character index of each page is when it first loads by keeping track of an xPos/yPos variable and measuring lines of text (that AREN'T actually rendered, just measured). This doesn't QUITE map to the display function, so the end of each page doesn't quite stop at the same place at the bottom of the page. It needs improving!
 
+![20210826_170510](https://user-images.githubusercontent.com/1586332/131073931-dac76ec2-8131-4a81-93b0-603ff41f790e.jpg)
 
