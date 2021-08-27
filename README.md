@@ -1,5 +1,6 @@
 # M5Stack Paper: E-Book reader
-This is a very simple prototype E-Book reader for the M5Stack Paper.
+This is a very simple prototype E-Book reader for the M5Stack Paper.                       
+https://shop.m5stack.com/products/m5paper-esp32-development-kit-v1-1-960x540-4-7-eink-display-235-ppi
 
 It comes with a small sample of the start of Robopocalypse as a test. It's worth a read, it's a good book.       
 If you like it, please support the author and buy the full book.                 
