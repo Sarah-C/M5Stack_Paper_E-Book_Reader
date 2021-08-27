@@ -13,7 +13,7 @@ This E-Book/E-Reader a **prototype** so please note, it's very limited, for inst
 3. Pages don't always exactly end in the same place at the bottom of the screen.
 
 **Features_____**                   
-1. Navigation by the job wheel.                
+1. Navigation by the jog wheel.                
 Left: Previous page.           
 Right: Next page.               
 Push (hold for 4 seconds): On / Off                
