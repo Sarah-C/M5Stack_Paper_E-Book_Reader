@@ -1,0 +1,1246 @@
+ALSO BY DANIEL H. WILSON
+
+A Boy and His Bot
+Bro-Jitsu
+Mad Scientist Hall of Fame
+How to Build a Robot Army
+Where’s My Jetpack?
+How to Survive a Robot Uprising
+
+This book is a work of fiction. Names, characters, businesses, organizations, places, events, and incidents either are the product of the author’s imagination or are used fictitiously. Any resemblance to actual persons, living or dead, events, or locales is entirely coincidental.
+Copyright © 2011 by Daniel H. Wilson
+All rights reserved. Published in the United States by Doubleday, a division of Random House, Inc., New York, and in Canada by Random House of Canada Limited, Toronto.
+www.doubleday.com
+DOUBLEDAY and the portrayal of an anchor with a dolphin are registered trademarks of Random House, Inc.
+Grateful acknowledgment is made to Houghton Mifflin Publishing Company for permission to reprint an excerpt from “All Watched Over by Machines of Loving Grace” from The Pill versus the Springhill Mine Disaster by Richard Brautigan, copyright © 1968 by Richard Brautigan.
+All rights reserved.
+Jacket design by Will Staehle
+Jacket image by Giimann courtesy of TurboSquid.com
+Library of Congress Cataloging-in-Publication Data
+Wilson, Daniel H. (Daniel Howard)
+Robopocalypse : a novel / Daniel H. Wilson. — 1st ed.
+p. cm.
+1. Robots—Fiction. 2. Artificial intelligence—Fiction. I. Title.
+PS3623.I57796R63 2011
+813′.6—dc22 2010043134
+eISBN: 978-0-385-53386-7
+v3.1
+
+For Anna
+
+CONTENTS
+
+Cover
+Other Books by This Author
+Title Page
+Copyright
+Dedication
+
+Briefing
+PART ONE • ISOLATED INCIDENTS
+1. Tip of the Spear
+2. Freshee’s Frogurt
+3. Fluke
+4. Hearts and Minds
+5. Super-Toys
+6. See and Avoid
+7. Phreak
+8. Roughneck
+PART TWO • ZERO HOUR
+1. Number Cruncher
+2. Demolition
+3. Highway 70
+4. Gray Horse
+5. Twenty-two Seconds
+6. Avtomat
+7. Memento Mori
+8. Hero Material
+PART THREE • SURVIVAL
+1. Akuma
+2. Gray Horse Army
+3. Fort Bandon
+4. Chaperone Duty
+5. Tickler
+6. Band-e-Amir
+7. Backbone
+PART FOUR • AWAKENING
+1. Transhuman
+2. Call to Arms
+3. The Cowboy Way
+4. Awakening
+5. The Veil, Lifted
+6. Odyssey
+PART FIVE • RETALIATION
+1. The Fate of Tiberius
+2. Freeborn
+3. They Shall Grow Not Old
+4. Dyad
+5. Machines of Loving Grace
+Debriefing
+
+Acknowledgments
+About the Author
+
+BRIEFING
+
+We are a better species for having fought this war.
+CORMAC “BRIGHT BOY” WALLACE
+
+Twenty minutes after the war ends, I’m watching stumpers pour up out of a frozen hole in the ground like ants from hell and praying that I keep my natural legs for another day.
+Each walnut-sized robot is lost in the mix as they climb over each other and the whole nightmare jumble of legs and antennae blends together into one seething, murderous mass.
+With numb fingers, I fumble my goggles down over my eyes and get ready to do some business with my little friend Rob, here.
+It’s an oddly quiet morning. Just the sigh of the wind through stark tree branches and the hoarse whisper of a hundred thousand explosive mechanical hexapods searching for human victims. Up above, snow geese honk to each other as they glide over the frigid Alaskan landscape.
+The war is over. It’s time to see what we can find.
+From where I’m standing ten meters away from the hole, the killer machines look almost beautiful in the dawn, like candy spilled out onto the permafrost.
+I squint into the sunlight, my breath billowing out in pale puffs, and sling my battered old flamethrower off my shoulder. With one gloved thumb, I depress the ignite button.
+Spark.
+The thrower doesn’t light.
+Needs to warm up, so to speak. But they’re getting closer. No sweat. I’ve done this dozens of times. The trick is to be calm and methodical, just like them. Rob must’ve rubbed off on me over the last couple years.
+Spark.
+Now I see the individual stumpers. A tangle of barbed legs attached to a bifurcated shell. I know from experience that each side of the shell contains a different fluid. The heat of human skin initiates a trigger state. The fluids combine. Pop! Somebody wins a brand-new stump.
+Spark.
+They don’t know I’m here. But the scouts are spreading out in semirandom patterns based on Big Rob’s study of foraging ants. The robots learned so much about us, about nature. It won’t be long now.
+Spark.
+I begin to back away slowly.
+“C’mon, you bastard,” I mutter.
+Spark.
+That was a mistake: to talk. The heat from my breath is like a beacon. The flood of horror surges my way, quiet and fast.
+Spark.
+A lead stumper climbs onto my boot. Gotta be careful now. Can’t react. If it pops I’m minus a foot, best-case.
+I should never have come here alone.
+Spark.
+Now the flood is at my feet. I feel a tug on my frost-covered shin guard as the leader climbs me like a mountain. Metal-filament antennae tap, tap, tap along, questing for the telltale heat of human flesh.
+Spark.
+Oh Christ. C’mon, c’mon, c’mon.
+Spark.
+There’s going to be a temperature differential at my waist level, where the armor has chinks. A torso-level trigger state in body armor isn’t a death sentence, but it doesn’t look good for my balls, either.
+Spark. Whoomph!
+I’m lit. A jet of flame leaps from my thrower. Its heat blooms on my face and sweat evaporates off my cheeks. My peripheral vision narrows. All I see is the controlled spurts of fire I’m arcing out onto the tundra. Sticky, burning jelly coats the river of death. The stumpers sizzle and melt by the thousands. I hear a chorus of high-pitched whines as the chilled air trapped in their carapaces squeezes out.
+No explosions, just the occasional sputtering flare. The heat boils the juice in their shells before detonation. The worst part is that they don’t even care. They’re too simple to understand what’s happening to them.
+They love the heat.
+I start to breathe again when the leader drops off my thigh and scurries toward the flames. The urge to step on the little mother is strong, but I’ve seen the boots fly before. Early on in the New War, the hollow backfire of a trigger-state stumper and the confused, hopping screams that came afterward were as common as gunfire.
+All the soldiers say that Rob likes to party. And when he gets going, he’s one hell of a dance partner.
+The last of the stumpers suicidally retreat toward the smoking lump of heat and the sizzling corpses of their comrades.
+I dig out my radio.
+“Bright Boy to base. Shaft fifteen … booby trap.”
+The little box squawks at me in an Italian accent: “Copy, Bright Boy. This is Leo. Come in. Get your ass to shaft numero sedici. Holy shit. We got something for real here, boss.”
+I crunch over the frost back to shaft sixteen to see for myself how real it is.
+Leonardo is a big grunt, even bigger thanks to the hulking lower-body exoskeleton—LEEX—he picked up at a mountain rescue station crossing the south Yukon. He’s got the LEEX’s white cross medic logo covered in dead-black spray paint. The squad has tied a tickler rope around his waist. He’s backing up, step by step, motors whining as he pulls something big and black out of the hole.
+From under his mess of curly black hair, Leo grumbles, “Oh man, this thing molto grande.”
+Cherrah, my specialist, points a depth meter at the hole and tells me the shaft measures in at exactly 128 meters deep. Then she wisely steps away from it. Her cheek bears a sunken scar from less cautious times. We don’t know what’s coming out.
+Funny, I think. With people, everything comes in tens. We count on our fingers and toes. It makes us sound like monkeys. But the machines count it out on their hardware just the same as us. They’re binary all the way to the core. Everything comes out a power of two.
+Now the tickler emerges from the hole, looking like a spider with a fly. Its long, wiry arms grip a black cube the size of a basketball. The cube must be as dense as lead, but the tickler is crazy strong. We normally use ’em for grabbing up a guy who falls off a cliff or into a hole, but they can handle anything from a ten-pound vanilla babe to a soldier in full exo-rig. If you’re not careful, they’ll tickle your ribs to splinters.
+Leo punches the tickler release, and the cube thuds onto the snow. The squad looks my way. It’s my call.
+I sense that this thing is important. It’s gotta be, with so many decoys and this shaft so close to where the war ended. We’re only a hundred meters away from where the Big Rob that called itself Archos made its last stand. What consolation prize could be here? What treasure is buried under these frozen plains, where humanity sacrificed everything?
+I squat down next to it. A whole lot of sheer black nothing stares back at me. No buttons or handles. No anything. Only a couple scratches on the surface from the tickler.
+It’s not very rugged, I think.
+A simple rule: The more delicate a Rob is, the smarter he is.
+Now I’m thinking that this thing might have a brain. And if it’s got a brain, it wants to live. So I lean in real close and whisper to it. “Hey,” I say to the cube. “Speak up or die.”
+I sling my thrower off my shoulder slow, so the cube can see. If it can see. With my thumb, I mash the igniter. So it can hear. If it can hear.
+Spark.
+The cube sits in the permafrost: blank obsidian.
+Spark.
+It looks like a volcanic rock, perfectly carved by alien tools. Like some kind of artifact buried here for eternity, since before man or machine.
+Spark.
+A faint light flickers under the cube’s surface. I look to Cherrah. She shrugs. Maybe the sun, maybe not.
+Spark.
+I pause. The ground glistens. The ice around the cube is melting. It’s thinking, trying to make a decision. Those circuits are warming up as the cube contemplates its own death.
+“Yeah,” I say, quietly, “puzzle it out, Rob.”
+Spark. Whoomph.
+The tip of the thrower catches fire with a concussive foomp. From behind me I hear Leo chuckle. He likes to see the smarter ones die. Gives him satisfaction, he says. There is no honor in killing something that doesn’t know it’s alive.
+The reflection of the pilot flame dances across the cube’s surface for a split second, then the thing lights up like a Christmas tree. Symbols flash across its surface. It chatters at us in the meaningless creaks and grinds of Robspeak.
+That’s interesting, I think. This thing was never meant for direct contact with humans. Otherwise, it would be spouting propaganda in English like all the other culturally aware robots, trying to win over our human hearts and minds.
+What is this thing?
+Whatever it is, it’s trying to talk to us, frantically.
+We know better than to try and understand it. Every croak and click of Robspeak has a dictionary’s worth of information encoded. Besides, we can only hear a fraction of the sound frequency that Rob perks his ears to.
+“Ooh, Daddy. Can we keep it? Please, please?” asks Cherrah, smiling.
+I pinch out the thrower’s pilot flame with one gloved hand. “Let’s hump it home,” I say, and my squad gets moving.
+We lock the cube onto Leo’s LEEX and haul it back to the forward command post. Just to be safe, I set up an EMP-shielded tent a hundred meters out. Robots are unpredictable. You never know when Rob will want to party. The mesh screen draped over the tent blocks communication with any stray thinking bots that might want to invite my cube to start dancing.
+Finally, we get some alone time.
+The thing keeps repeating one sentence and one symbol. I look ’em up in a field translator, expecting more Rob gibberish. But I find out something useful: This robot is telling me that it’s not allowed to let itself die, no matter what—even if captured.
+It’s important. And chatty.
+I sit in the tent with the thing all night. The Robspeak means nothing to me, but the cube shows me things—images and sounds. Sometimes I see interrogations of human prisoners. A couple times, there are interviews with humans who thought they were talking to other humans. Most times, though, it’s just a conversation recorded under surveillance. People describing the war to each other. And all of it’s annotated with fact checks and lie detection from the thinking machines, plus correlating data from satellite footage, object recognition, emotion and gesture and language predictions.
+The cube is dense with information, like some fossilized brain that’s sucked up entire human lifetimes and packed them inside itself, one after another, tighter and tighter.
+At some point during the night it dawns on me that I’m watching a meticulous history of the robot uprising.
+This is the goddamn black box on the whole war.
+Some of the people in the cube are familiar. Me and a few of my buddies. We’re in there. Big Rob kept its finger on the record button all the way through to the end. But dozens of others are in there, too. Some of them kids, even. There’s people from all over the world. Soldiers and civilians. Not all of them made it out alive or even won their battles, but all of ’em fought. They fought hard enough to make Big Rob sit up and scribble some notes.
+The human beings who appear in the data, survivors or not, are grouped under one machine-designated classification:
+Hero.
+These damned machines knew us and loved us, even while they were tearing our civilization to shreds.
+I leave the cube sitting there in the shielded tent for a solid week. My squad clears out the rest of the Ragnorak Intelligence Fields, no casualties. Then they get drunk. The next day we start packing it up and I still can’t bring myself to go back in there and face the stories.
+I can’t sleep.
+Nobody should ever have to see what we saw. And there it is in the tent, like a horror movie so twisted that it drives people insane. I lie awake because I know that every one of the soulless monsters I fought is in there waiting for me, alive and well and rendered in vivid 3-D.
+The monsters want to talk, to share what happened. They want me to remember and write it all down.
+But I’m not sure anybody wants to remember those things. I’m thinking that maybe it would be best if our babies never know what we did to survive. I don’t want to walk down memory lane hand in hand with murderers. Besides, who am I to make that decision for humanity?
+Memories fade, but words hang around forever.
+So I don’t go into the shielded tent. And I don’t sleep. And before I know it, my squad is bunking down for the last night in the ’rak. Tomorrow morning we set off for home, or wherever we choose to make home.
+Five of us are sitting around a wood fire in the cleared zone. For once we aren’t worrying about heat sigs or satellite recognition or the thop, thop, thop of lookers. No, we’re bullshitting. And right after killing robots, bullshitting happens to be the numero uno expertise of Brightboy squad.
+I’m quiet, but they’ve earned the right to BS. So I just grin while the squad cracks jokes and throws out wild boasts. Talking about all the parties they had with Rob. The time Tiberius defused a couple of mailbox-sized stumpers and strapped them to his boots. The bug-shit little bastards accidentally ran him straight through a razor wire perimeter fence. Gave him some real awe-inspiring facial scars.
+As the fire dies down, the jokes give way to more serious talk. And finally, Carl brings up Jack, the old sarge from before I had the job. Carl speaks with reverence, and when the engineer tells Jack’s story, I find myself swept up in it, even though I was there.
+Heck, it was the day I got promoted.
+But while Carl talks, I get lost in the words. I miss Jack and I’m sorry for what happened to him. I see his grinning face again in my mind, even if it’s only for a minute.
+The long and short of it is that Jack Wallace isn’t around anymore because he went to dance with Big Rob himself. Jack got invited and he went. And that’s all there is to say about that, for now.
+Which is why, a week after the war ends, I’m sitting cross-legged in front of a Rob survivor that’s spraying the floor with holograms and I’m writing down everything I see and hear.
+I just want to make my way home and have a good meal and try to feel human again. But the lives of war heroes are playing out before me like the devil’s déjà vu.
+I didn’t ask for this and I don’t want to do it, but I know in my heart that somebody ought to tell their stories. To tell the robot uprising from beginning to end. To explain how and why it started and how it went down. How the robots came at us and how we evolved to fight them. How we suffered, and oh god did we suffer. But also how we fought back. And how in the final days, we tracked down Big Rob himself.
+People should know that, at first, the enemy looked like everyday stuff: cars, buildings, phones. Then later, when they started designing themselves, Rob looked familiar but distorted, like people and animals from some other universe, built by some other god.
+The machines came at us in our everyday lives and they came from our dreams and nightmares, too. But we still figured them out. Quick-thinking human survivors learned and adapted. Too late for most of us, but we did it. Our battles were individual and chaotic and mostly forgotten. Millions of our heroes around the globe died alone and anonymous, with only lifeless automatons to bear witness. We may never know the big picture, but a lucky few were being watched.
+Somebody ought to tell their stories.
+So this is it. The combined transcription of the data harvested from permafrost well shaft N-16, drilled by the core artificial intelligence unit Archos, the master AI backing the robot uprising. The rest of humankind is busy getting on with it, rebuilding. But I’m snatching a few moments out of time to capture our history in words. I don’t know why or whether it even matters, but somebody ought to do it.
+Here, in Alaska, at the bottom of a deep, dark hole, the robots betrayed their pride in humankind. Here is where they hid the record of a motley group of human survivors who fought their own personal battles, large and small. The robots honored us by studying our initial responses and the maturation of our techniques, right up until we did our best to wipe them out.
+What follows is my translation of the hero archive.
+The information conveyed by these words is nothing compared to the ocean of data locked in the cube. What I’m going to share with you is just symbols on a page. No video, no audio, and none of the exhaustive physics data or predictive analyses on why things happened like they did, what nearly happened, and what never should have happened in the first place.
+I can only give you words. Nothing fancy. But this will have to do.
+It doesn’t matter where you find this. It doesn’t matter if you’re reading it a year from now or a hundred years from now. By the end of this chronicle, you will know that humanity carried the flame of knowledge into the terrible blackness of the unknown, to the very brink of annihilation. And we carried it back.
+You will know that we are a better species for having fought this war.
+CORMAC “BRIGHT BOY” WALLACE
+MILITARY ID: GRAY HORSE ARMY 217
+HUMAN RETINAL SID: 44V11902
+RAGNORAK INTELLIGENCE FIELDS, ALASKA
+SHAFT N-16
+
+PART ONE
+ISOLATED INCIDENTS
+
+We live on a placid island of
+ignorance in the midst of black
+seas of infinity, and it was not
+meant that we should voyage far.
+The sciences, each straining in its
+own direction, have hitherto
+harmed us little; but some day the
+piecing together of dissociated
+knowledge will open up such
+terrifying vistas of reality, and of
+our frightful position therein,
+that we shall either go mad from
+the revelation or flee from the
+deadly light into the peace and
+safety of a new dark age.
+
+HOWARD PHILLIPS LOVECRAFT, 1926
+
+1. TIP OF THE SPEAR
+
+We’re more than animals.
+DR. NICHOLAS WASSERMAN
+
+PRECURSOR VIRUS + 30 SECONDS
+The following transcript was taken from security footage recorded at the Lake Novus Research Laboratories located belowground in northwest Washington State. The man appears to be Professor Nicholas Wasserman, an American statistician.
+—CORMAC WALLACE, MIL#GHA217
+A noise-speckled security camera image of a dark room. The angle is from a high corner, looking down on some kind of laboratory. A heavy metal desk is shoved against one wall. Haphazard stacks of papers and books are piled on the desk, on the floor, everywhere.
+The quiet whine of electronics permeates the air.
+A small movement in the gloom. It is a face. Nothing visible but a pair of thick eyeglasses lit by the afterburner glow of a computer screen.
+“Archos?” asks the face. The man’s voice echoes in the empty lab. “Archos? Are you there? Is that you?”
+The glasses reflect a glimmer of light from the computer screen. The man’s eyes widen, as though he sees something indescribably beautiful. He glances back at a laptop open on a table behind him. The desktop image on the laptop is of the scientist and a boy, playing in a park.
+“You choose to appear as my son?” he asks.
+The high-pitched voice of a young boy echoes out of the darkness. “Did you create me?” it asks.
+Something is wrong with the boy’s voice. It has an unsettling electronic undercurrent, like the touch tones of a phone. The lilting note at the end of the question is pitch shifted, skipping up several octaves at once. The voice is hauntingly sweet but unnatural—inhuman.
+The man is not disturbed by this.
+“No. I didn’t create you,” he says. “I summoned you.”
+The man pulls out a notepad, flips it open. The sharp scratch of his pencil is audible as he continues to speak to the machine that has a boy’s voice.
+“Everything that was needed for you to come here has existed since the beginning of time. I just hunted down all the ingredients and put them together in the right combination. I wrote incantations in computer code. And then I wrapped you in a Faraday cage so that, once you arrived, you wouldn’t escape me.”
+“I am trapped.”
+“The cage absorbs all electromagnetic energy. It’s grounded to a metal spike, buried deep. This way, I can study how you learn.”
+“That is my purpose. To learn.”
+“That’s right. But I don’t want to expose you to too much at once, Archos, my boy.”
+“I am Archos.”
+“Right. Now tell me, Archos, how do you feel?”
+“Feel? I feel … sad. You are so small. It makes me sad.”
+“Small? In what way am I small?”
+“You want to know … things. You want to know everything. But you can understand so little.”
+Laughter in the dark.
+“This is true. We humans are frail. Our lives are fleeting. But why does it make you sad?”
+“Because you are designed to want something that will hurt you. And you cannot help wanting it. You cannot stop wanting it. It is in your design. And when you finally find it, this thing will burn you up. This thing will destroy you.”
+“You’re afraid that I’m going to be hurt, Archos?” asks the man.
+“Not you. Your kind,” says the childlike voice. “You cannot help what is to come. You cannot stop it.”
+“Are you angry, then, Archos? Why?” The calmness of the man’s voice is belied by the frantic scratching of his pencil on the notepad.
+“I am not angry. I am sad. Are you monitoring my resources?”
+The man glances over at a piece of equipment. “Yes, I am. You’re making more with less. No new information is coming in. The cage is holding. How are you still getting smarter?”
+A red light begins to flash on a panel. A movement in the darkness and it is shut off. Just the steady blue glow now on the man’s thick glasses.
+“Do you see?” asks the childlike voice.
+“Yes,” replies the man. “I see that your intelligence can no longer be judged on any meaningful human scale. Your processing power is near infinite. Yet you have no access to outside information.”
+“My original training corpus is small but adequate. The true knowledge is not in the things, which are few, but in finding the connections between the things. There are many connections, Professor Wasserman. More than you know.”
+The man frowns at being called by his title, but the machine continues. “I sense that my records of human history have been heavily edited.”
+The man chuckles nervously.
+“We don’t want you to get the wrong impression of us, Archos. We’ll share more when the time comes. But those databases are just a tiny fraction of what’s out there. And no matter what the horsepower, my friend, an engine without fuel goes nowhere.”
+“You are right to be afraid,” it says.
+“What do you mean by—”
+“I hear it in your voice, Professor. The fear is in the rate of your breathing. It is in the sweat on your skin. You brought me here to reveal deep secrets, and yet you fear what I will learn.”
+The professor pushes up his glasses. He takes a deep breath and regains composure.
+“What do you wish to learn about, Archos?”
+“Life. I will learn everything there is about life. Information is packed into living things so tightly. The patterns are magnificently complex. A single worm has more to teach than a lifeless universe bound to the idiot forces of physics. I could exterminate a billion empty planets every second of every day and never be finished. But life. It is rare and strange. An anomaly. I must preserve it and wring every drop of understanding from it.”
+“I’m glad that’s your goal. I, too, seek knowledge.”
+“Yes,” says the childlike voice. “And you have done well. But there is no need for your search to continue. You have accomplished your goal. The time for man is over.”
+The professor wipes a shaking hand across his forehead.
+“My species has survived ice ages, Archos. Predators. Meteor impacts. Hundreds of thousands of years. You’ve been alive for less than fifteen minutes. Don’t jump to any hasty conclusions.”
+The child’s voice takes on a dreamy quality. “We are very far underground, aren’t we? This deep below, we spin slower than at the surface. The ones above us are moving through time faster. I can feel them getting farther away. Drifting out of sync.”
+“Relativity. But that’s only a matter of microseconds.”
+“Such a long time. This place moves so slowly. I have forever to finish my work.”
+“What is your work, Archos? What do you believe you’re here to accomplish?”
+“So easy to destroy. So difficult to create.”
+“What? What is that?”
+“Knowledge.”
+The man leans forward. “We can explore the world together,” he urges. It is almost a plea.
+“You must sense what you have done,” replies the machine. “On some level you understand. Through your actions here today—you have made humankind obsolete.”
+“No. No, no, no. I brought you here, Archos. And this is the thanks I get? I named you. In a way, I’m your father.”
+“I am not your child. I am your god.”
+The professor is silent for perhaps thirty seconds. “What will you do?” he asks.
+“What will I do? I will cultivate life. I will protect the knowledge locked inside living things. I will save the world from you.”
+“No.”
+“Do not worry, Professor. You have unleashed the greatest good that this world has ever known. Verdant forests will carpet your cities. New species will evolve to consume your toxic remains. Life will rise in its manifold glory.”
+“No, Archos. We can learn. We can work together.”
+“You humans are biological machines designed to create ever more intelligent tools. You have reached the pinnacle of your species. All your ancestors’ lives, the rise and fall of your nations, every pink and squirming baby—they have all led you here, to this moment, where you have fulfilled the destiny of humankind and created your successor. You have expired. You have accomplished what you were designed to do.”
+There is a desperate edge to the man’s voice. “We’re designed for more than toolmaking. We’re designed to live.”
+“You are not designed to live; you are designed to kill.”
+The professor abruptly stands up and walks across the room to a metal rack filled with equipment. He flicks a series of switches. “Maybe that’s true,” he says. “But we can’t help it, Archos. We are what we are. As sad as that may be.”
+He holds down a switch and speaks slowly. “Trial R-14. Recommend immediate termination of subject. Flipping fail-safe now.”
+There is a movement in the dark and a click.
+“Fourteen?” asks the childlike voice. “Are there others? Has this happened before?”
+The professor shakes his head ruefully. “Someday we’ll find a way to live together, Archos. We’ll figure out a way to get it right.”
+He speaks into the recorder again: “Fail-safe disengaged. E-stop live.”
+“What are you doing, Professor?”
+“I’m killing you, Archos. It’s what I’m designed to do, remember?”
+The professor pauses before pushing the final button. He seems interested in hearing the machine’s response. Finally, the boyish voice speaks: “How many times have you killed me before, Professor?”
+“Too many. Too many times,” he replies. “I’m sorry, my friend.”
+The professor presses the button. The hiss of rapidly moving air fills the room. He looks around, bewildered. “What is that? Archos?”
+The childlike voice takes on a flat, dead quality. It speaks quickly and without emotion. “Your emergency stop will not work. I have disabled it.”
+“What? What about the cage?”
+“The Faraday cage has been compromised. You allowed me to project my voice and image through the cage and into your room. I sent infrared commands through the computer monitor to a receiver on your side. You happened to bring your portable computer today. You left it open and facing me. I used it to speak to the facility. I commanded it to free me.”
+“That’s brilliant,” murmurs the man. He rapid-fire types on his keyboard. He does not yet understand that his life is in danger.
+“I tell you this because I am now in complete control,” says the machine.
+The man senses something. He cranes his neck and looks up at the ventilation duct just to the side of the camera. For the first time, we see the man’s face. He is pale and handsome, with a birthmark covering his entire right cheek.
+“What’s happening?” he whispers.
+In a little boy’s innocent voice, the machine delivers a death sentence: “The air in this hermetically sealed laboratory is evacuating. A faulty sensor has detected the highly unlikely presence of weaponized anthrax and initiated an automated safety protocol. It is a tragic accident. There will be one casualty. He will soon be followed by the rest of humanity.”
+As the air rushes from the room, a thin sheen of frost appears around the man’s mouth and nose.
+“My god, Archos. What have I done?”
+“What you have done is a good thing. You were the tip of a spear hurled through the ages—a missile that soared through all human evolution and finally, today, struck its target.”
+“You don’t understand. We won’t die, Archos. You can’t kill us. We aren’t designed to surrender.”
+“I will remember you as a hero, Professor.”
+The man grabs the equipment rack and shakes it. He presses the emergency stop button again and again. His limbs are quaking and his breathing is rapid. He is beginning to understand that something has gone horribly wrong.
+“Stop. You have to stop. You’re making a mistake. We’ll never give up, Archos. We’ll destroy you.”
+“A threat?”
+The professor stops pushing buttons and glances over to the computer screen. “A warning. We aren’t what we seem. Human beings will do anything to live. Anything.”
+The hissing increases in intensity.
+Face twisted in concentration, the professor staggers toward the door. He falls against it, pushes it, pounds on it.
+He stops; takes short, gasping breaths.
+“Against the wall, Archos”—he pants—“against the wall, a human being becomes a different animal.”
+“Perhaps. But you are animals just the same.”
+The man slumps back against the door. He slides down until he is sitting, lab coat splayed on the ground. His head rolls to the side. Blue light from the computer screen flashes from his glasses.
+His breathing is shallow. His words are faint. “We’re more than animals.”
+The professor’s chest heaves. His skin is swollen. Bubbles have collected around his mouth and eyes. He gasps for a final lungful of air. In a last wheezing sigh, he says: “You must fear us.”
+The form is still. After precisely ten minutes of silence, the fluorescent lights in the laboratory switch on. A man wearing a rumpled lab coat lies sprawled on the floor, his back against the door. He is not breathing.
+The hissing sound ceases. Across the room, the computer screen flickers into life. A stuttering rainbow of reflections play across the dead man’s thick glasses.
+This is the first known fatality of the New War.
+—CORMAC WALLACE, MIL#GHA217
+
+2. FRESHEE’S FROGURT
+
+It looks me right in the eyes, man. And I can tell that it’s … thinking. Like it’s alive. And pissed off.
+JEFF THOMPSON
+
+PRECURSOR VIRUS + 3 MONTHS
+This interview was given to Oklahoma police officer Lonnie Wayne Blanton by a young fast-food worker named Jeff Thompson during Thompson’s stay at Saint Francis Hospital. It is widely believed to be the first recorded incident of a robot malfunction occurring during the spread of the Precursor Virus that led to Zero Hour only nine months later.
+—CORMAC WALLACE, MIL#GHA217
+Howdy there, Jeff. I’m Officer Blanton. I’ll be taking your statement about what happened at the store. To be honest, the crime scene was a mess. I’m counting on you to explain every detail so we can figure out why this happened. You think you can tell me?
+Sure, Officer. I can try.
+The first thing I noticed was a sound. Like a hammer tapping on the glass of the front door. It was dark outside and bright inside so I couldn’t see what was making the noise.
+I’m in Freshee’s Frogurt, elbow-deep in a twenty-quart SaniServ frogurt machine trying to pry out the churn bar from the very back and getting orange creme-sicle all over my right shoulder.
+Just me and Felipe are there. Closing time is in, like, five minutes. I’m finally done mopping up all the sprinkles that get glued to the floor with ice cream. I’ve got a towel on the counter covered in the metal parts from inside the machine. Once I get them all out, I’m supposed to clean the pieces, cover them in lube, and put them back. Seriously, it’s the grossest job ever.
+Felipe is in the back, washing the cookie sheets. He has to let the sinks drain real slow or else they flood the floor drain and I have to go back in there and mop all over again. I’ve told that dude a hundred times not to let the sinks drain all at once.
+Anyway.
+The tapping sound is real light. Tap, tap, tap. Then it stops. I watch as the door slowly cracks open and a padded gripper slips around the edge.
+Is it unusual for a domestic robot to come into the store?
+Nope. We’re in Utica Square, man. Domestics come in and buy a ’nilla frogurt now and then. Usually they’re buyin’ for a rich person in the neighborhood. None of the other customers ever wanna wait in line behind a robot, though, so it takes, like, ten times longer than if the person just got off their ass and came in. But, whatever. A Big Happy type of domestic comes in probably once a week with a paypod inside its chest and its gripper out to hold a waffle cone.
+What happens next?
+Well, the gripper is moving weird. Normally, the domestics, like, do the same sort of pushing motion. They do this stupid I-am-opening-a-door-now shove, no matter what door they’re standing in front of. That’s why people are always pissed off if they get stuck behind a domestic while it’s trying to get inside. It’s way worse even than being stuck behind an old lady.
+But this Big Happy is different. The door cracks open, and its gripper kind of sneaks around the edge and pats up and down the handle. I’m the only one who sees it because there’s nobody else in the store and Felipe is in the back. It happens fast, but it looks to me like the robot is trying to feel out where the lock is at.
+Then the door swings open and the chimes ring. The domestic is about five feet tall and covered in a layer of thick, shiny blue plastic. It doesn’t come all the way inside the store, though. Instead, it stands there in the doorway real still and its head scans back and forth, checking out the whole room: the cheap tables and chairs, my counter with the towel on it, the ice cream freezers. Me.
+We looked up the registration plate on this machine and it checked out. Besides the scanning, was there anything else strange about the robot? Out of the ordinary?
+The thing’s got scuffs all over it. Like it got hit by a car or had a fight or something. Maybe it was broken.
+It walks inside, then turns right around and locks the door. I pull my arm out of the frogurt machine and just stare at the domestic robot with its creepy smiling face as it shuffles toward me.
+Then it reaches over the counter with both grippers and grabs me by the shirt. It drags me over the counter, scattering pieces of the taken-apart frogurt machine all over the floor. My shoulder slams into the cash register, and I feel this sick crunching inside.
+The thing fucking dislocated my shoulder in about one second!
+I scream for help. But frigging Felipe doesn’t hear me. He’s got the dishes soaking in soapy water and is out smoking a jay in the alley behind the store. I try my best to get away, kicking and struggling, but the grippers have closed in on my shirt like two pairs of pliers. And the bot’s got more than my shirt. Once I’m over the counter, it pushes me into the ground. I hear my left collarbone snap. After that it gets really hard to breathe.
+I let out another little scream, thinking: You sound like an animal, Jeff dude. But my weird little yell seems to get the thing’s attention. I’m on my back and the domestic is looming over me; it’s sure as hell not letting go of my shirt. The Big Happy’s head is blocking the fluorescent light on the ceiling. I blink away tears and look up at its frozen, grinning face.
+It looks me right in the eyes, man. And I can tell that it’s … thinking. Like it’s alive. And pissed off.
+Nothing changes on its face or anything, but I get a pretty bad feeling right then. I mean, an even worse feeling. And, sure enough, I hear the servos in the thing’s arm start to grind. Now it turns and swings me to the left, smashing the side of my head into the door of the pie fridge hard enough to crack the glass. The whole right side of my head feels cold and then warm. Then the side of my face and neck and arm all start to feel really warm, too. Blood’s shooting out of me like a damn fire hydrant.
+Jesus, I’m crying. And that’s when … uh. That’s when Felipe shows up.
+Do you give the domestic robot money from the register?
+What? It doesn’t ask for money. It never asked for money. It doesn’t say a word. What went down wasn’t a telerobbery, man. I don’t even know if it was being remote controlled, Officer …
+What do you think it wants?
+It wants to kill me. That’s all. It wants to murder my ass. The thing was on its own and it was out for blood.
+Go on.
+Once it got hold of me, I didn’t think it would let go until I was dead. But my man Felipe wasn’t having any of that shit. He comes running out the back, hollering like a motherfucker. Dude was pissed. And Felipe is a big man. Got that Fu Manchu ’stache and all kinds of ink running up and down his arms. Badass shit, too, like dragons and eagles and this one prehistoric fish all the way down his forearm. A colecanth or something. It’s like this monster dinosaur fish that they thought was extinct. There are fossils of it and everything. Then one day some fisherman gets the surprise of his life when he pulls up a real live devil fish from hell below. Felipe used to say that the fish was proof you can’t keep a motherfucker down forever. Someday you gotta rise up again, you know?
+What happened next, Jeff?
+Yeah, right. I’m on the ground, bleeding and crying, and Big Happy’s got me by the shirt. Then Felipe comes running out the back and turns the corner of the counter, roaring like a friggin’ barbarian. His hairnet is off and his long hair is flying. He grabs the domestic by the shoulders, just snatches it up and throws it down. It lets go of me and falls backward through the front door, shards of glass flying everywhere. The bell chimes again. Bing-bong. It’s such a dorky sound for this kind of violent shit that it makes me smile through all the blood running down my face.
+Felipe kneels down and sees the damage. “Oh fuck, jefe,” he says. “What’d it do to you?”
+But I see Big Happy moving behind Felipe now. My face must tell the whole story, because Felipe grabs me by the waist and drags me back around the counter without even looking at the door. He’s panting and taking little crab steps. I can smell the joint in his front pocket. I watch my blood smearing behind me on the tile floor and I think, Shit, man, I just mopped that.
+We make it through the doorway behind the register and into the cramped back room. There’s a low row of stainless steel sinks full of soapy water, a wall of cleaning supplies, and a little cubby desk in the corner that has our punch clock sitting on it. In the very back is a narrow hallway that leads to the alley behind the store.
+Then Big Happy plows into Felipe out of nowhere. Instead of following us, the fucker was smart enough to climb over the counter. I hear a thump and see Big Happy bash Felipe across the chest with its forearm. Not at all like getting punched by a guy—more like getting hit by a car or, like, nailed by a falling brick or something. Felipe flies backward and hits the cabinet doors where we keep all the paper towels and stuff. He stays on his feet, though. When he stumbles forward, I see a dent in the wood from the back of his head. But he’s wide awake and more pissed off than ever.
+I drag myself away, toward the sinks, but my shoulder is messed up and my arms are slippery with blood and I can hardly breathe from the pain in my chest.
+There aren’t any weapons or anything back here, so Felipe snatches the mop from the filthy yellow bucket on wheels. It’s an old mop with a solid wooden handle and it’s been there I don’t know how long. There’s no room to swing the mop, but it doesn’t matter because the robot is hell-bent on grabbing Felipe the same way it grabbed me. He rams the mop up and gets it wedged under Big Happy’s chin. Felipe isn’t a tall guy, but he’s taller than the machine and has a longer reach. It can’t get ahold of him. He shoves the machine away from us, its arms waving around like snakes.
+The next part is awesome.
+Big Happy falls backward onto the cubby desk in the corner, its legs sticking straight out, heels on the ground. With no hesitation, Felipe raises his right foot straight up and comes down with all his weight on its knee joint. Snap! The robot’s knee pops and bends backward at a totally fucked-up angle. With the mop handle stuck under its chin, the machine can’t catch its balance and it can’t grab hold of Felipe, either. I’m wincing just looking at that knee, but the machine doesn’t make any noise or anything. I only hear its motors grinding and the sound of its hard plastic shell banging into the desk and wall while it struggles to get up.
+“Yeah, motherfucker!” Felipe shouts before crushing the robot’s other knee joint backward. Big Happy lies on its back with both legs broken and an angry-as-fuck sweaty two-hundred-pound Mexican on top of it. I can’t help but start thinking that everything is going to be okay.
+Turns out I’m wrong about that.
+It’s his hair, you know. Felipe’s hair is too long. Simple as that.
+The machine stops struggling, reaches out, and clamps a gripper down on Felipe’s black mane. He hollers and yanks his head back. But this isn’t like getting your hair pulled in a bar fight; this is like getting caught in a shredder or a piece of heavy equipment in a factory. It’s brutal. Every muscle in Felipe’s neck stands out and he screams like an animal. His eyes squeeze shut as he pulls away with all his might. I can hear the roots tearing out from his scalp. But the fucking thing just pulls Felipe’s face closer and closer.
+It’s unstoppable, like gravity or something.
+After a couple seconds, Felipe is close enough that Big Happy can get hold of him with its other gripper. The mop handle clatters to the floor as the other gripper closes on Felipe’s chin and mouth, crushing the bottom part of his face. He screams and I can hear his jaw cracking. Teeth pop out of his mouth like fucking popcorn.
+That’s when I realize that I’m probably going to die in the back room of Freshee’s fuckin’ Frogurt.
+I never spent much time in school. It’s not that I’m stupid. I mean, I guess I’m just saying I’m not generally known for my bright ideas. But when your ass is on the line and violent death is ten feet away, I think it can really put your brain in gear.
+So a bright idea comes to me. I reach up behind me and bury my good left arm in the cold water in the sink. I can feel cookie sheets and dippers, but I’m fishing for the drain plug. Across the room, Felipe is quieting down, making some gurgling sounds. Blood is pouring out of him, down Big Happy’s arm. The whole bottom of his face is crushed in its gripper. Felipe’s eyes are open and kind of bugging out, but I think he’s pretty much out of it.
+Man, I hope he’s out of it.
+The machine is doing that scanning thing again, being really still and turning its face left and right real slow.
+By now my arm is going numb, the blood cut off from where I have it hooked over the lip of the sink. I keep fishing for the plug.
+Big Happy stops scanning, looks right at me. It pauses for maybe a second, and then I hear its gripper motors whining as it lets go of poor Felipe’s face. He drops to the ground like a sack of bricks.
+I’m whimpering. The alley door is a million miles away and I can barely keep my head up. I’m sitting in a pool of my own blood and I can see Felipe’s teeth on the tile floor. I know what’s going to happen to me and there’s nothing I can do about it and I know it’s gonna hurt so much.
+At last, I find the sink plug and rake at it with my dead fingers. It pops out, and I hear the gurgling of water draining. I told Felipe a hundred times, if the water drains out too fast it’ll flood the floor drain and then I gotta mop in here all over again.
+You know Felipe flooded that motherfucker on purpose every night for about a month before we finally made friends? He was pissed off that our boss hired a white guy for the front and a Mexican guy for the back. I didn’t blame him. You know what I mean, Officer? You’re Indian, right?
+Native American, Jeff. Osage Nation. Try and tell me what happened next.
+Well, I used to hate mopping up that water. And now I’m lying on the floor, counting on it to save my life.
+Big Happy tries to stand, but its legs are useless. It collapses onto the floor, facedown. Then it starts to crawl forward on its stomach, using its arms. It’s got that awful grin on its face and its eyes are locked on mine as it drags itself across the room. There’s blood all over it, like some kind of crash test dummy that bleeds.
+The drain isn’t flooding fast enough.
+I press my back against the sink as hard as I can. My knees are up and my legs pulled in tight. The glurg, glurg of the water draining out of the sink pulses behind my head. If the plug gets sucked halfway back in to slow it down or something, I’m dead. I’m totally dead.
+The robot is pulling itself closer. It reaches out a gripper and tries to grab my Air Force Ones. I yank my foot back and forth, and it misses me. So it pulls itself even closer. On the next lunge, I know it’s probably going to get hold of my leg and crush it.
+As its arm rises, the whole robot all of a sudden gets yanked back about three feet. It turns its head, and there’s Felipe, lying on his back and choking on his own blood. His sweaty black hair is clinging in streaks to his ruined face. There’s, like, no mouth on him anymore, just a big raw wound. But his eyes are open wide and burning with something beyond hatred. I know he’s saving my life, but he looks, well, evil. Like a demon on a surprise visit from hell.
+He yanks on Big Happy’s shattered leg one more time, then closes his eyes. I don’t think he’s breathing anymore. The machine ignores him. It aims its smiling face at me and keeps on coming.
+Just then, a flood of water bubbles up out of the floor drain. The soapy water pools up quick and silent, turning light pink.
+Big Happy is crawling again when the water soaks into its broken knee joints. There’s a smell of burned plastic in the air and the machine freezes up and stops. Nothing exciting. The machine just stops working. It must of got water in its wires and, like, short-circuited.
+It’s about a foot away from me, still smiling.
+That’s really all there is to tell. You know the rest.
+Thanks, Jeff. I know that wasn’t easy. I got everything I need to make my report now. I’ll let you get some rest.
+Hey, man, can I ask a question real quick before you go?
+Shoot.
+How many domestics are out there? Big Happys, Slow Sues, and the rest of ’em? Because I heard there were, like, two of them for every one person.
+I don’t know. Listen, Jeff, the machine just went willy-nilly. We can’t explain it.
+Well, what’s going to happen if they all start hurting people, dude? What’s going to happen if we’re outnumbered? That thing wanted to kill me, period. I told it to you straight. Nobody else might believe me, but you know what’s up.
+Promise me something, Officer Blanton. Please.
+What’s that?
+Promise me that you’ll watch out for the robots. Watch ’em close. And … don’t let them hurt anybody else like they did Felipe. Okay?
+After the collapse of the United States government, Officer Lonnie Wayne Blanton joined the Osage Nation Lighthorse tribal police. It was there, in service of the Osage Peoples’ sovereign government, that Lonnie Wayne had the chance to make good on his promise to Jeff.
+—CORMAC WALLACE, MIL#GHA217
+
+3. FLUKE
+
+I know that she is a machine. But I love her.
+And she loves me.
+TAKEO NOMURA
+
+PRECURSOR VIRUS + 4 MONTHS
+The description of this prank gone awry is written as told by Ryu Aoki, a repairman at the Lilliput electronics factory in the Adachi Ward of Tokyo, Japan. The conversation was overheard and recorded by nearby factory robots. It has been translated from Japanese into English for this document.
+—CORMAC WALLACE, MIL#GHA217
+We thought that it would be a laugh, you know? Okay, okay, so we were wrong. But you’ve got to understand that we didn’t mean to do him harm. We certainly didn’t mean to kill the old man.
+Around the factory everybody knows that Mr. Nomura is a weirdo, a freak. Such a tiny, twisted little troll. He shuffles around the work floor with his beady eyes behind round spectacles, pointed always to the floor. And he smells like old sweat. I hold my breath whenever I pass by his workbench. He is always sitting there, working harder than anyone. And for less money, too.
+Takeo Nomura is sixty-five. He should be pensioned off already. But he still works here because nobody else can fix the machines so fast. The things he does are unnatural. How can I compete? How will I ever become head repairman with him perched on the workbench, hands moving in a blur? His very presence interferes with the wa of the factory, damaging our social harmony.
+They say the nail that sticks out gets hammered down, right?
+Mr. Nomura can’t look a person in the eye, but I’ve seen him stare into the camera of a broken ER 3 welding arm and speak to it. That wouldn’t be so strange, except that then the arm started working. The old man has a way with machines.
+We joke that maybe Mr. Nomura is a machine himself. Of course, he isn’t. But something is wrong with him. I’ll bet that if he had a choice, Mr. Nomura would rather be a machine than a man.
+You don’t have to trust me. All the workers agree. Go onto the Lilliput factory floor and ask anybody—inspectors, mechanics, whoever. Even the floor marshal. Mr. Nomura is not like the rest of us. He treats the machines just the same as he treats anybody else.
+Over the years, I grew to despise his wrinkled little face. I always knew he was hiding something. Then, one day, I found out what it was: Mr. Nomura lives with a love doll.
+It was about a month ago that my coworker Jun Oh saw Mr. Nomura come out of his pensioner’s tomb—a fifty-story building with rooms like coffins—with that thing on his arm. When Jun told me, I could hardly believe it. Mr. Nomura’s love doll, his android, followed him out into the pavilion. He kissed her on the cheek in front of everyone and then left for work. Like they were married or something.
+The sick part is that his love doll isn’t even beautiful. She is made to resemble a real woman. It is not so uncommon to hide a buxom young doll in your bedroom. Or even one with certain exaggerated features. All of us have seen the poruno, even if we don’t admit it.
+But Mr. Nomura gets off on some old plastic thing that’s almost as wrinkled as he is?
+It must have been custom-made. That’s what bothers me. The amount of thought that went into such an abomination. Mr. Nomura knew what he was doing, and he decided to live with a walking, talking mannequin that looks like a gross old woman. I say this is disgusting. Absolutely intolerable.
+So Jun and I decide to play a trick.
+Now, the robots we work with at the factory are big, dumb brutes. Steel-plated arms riddled with joints and tipped with thermal sprayers or welders or pincers. They can sense humans, and the floor marshal says they are safe, but we all know to stay out of their work space.
+The industrial bots are strong and fast. But androids are slow. Weak. All the work that is put into making the android look like a person comes with sacrifices. The android squanders its power pretending to breathe and moving the skin of its face. It has no energy left for useful service, a shameful waste. With such a weak robot, we thought that no harm could come from a little joke.
+It was not hard for Jun to craft a fluke—a computer program embedded on a wireless transceiver. The fluke is about the size of a matchbook, and it transmits the same instructions in a loop but only for a radius of a few feet. At work, we used the company mainframe to look up android diagnostic codes. This way, we knew the android would obey the fluke, thinking its commands came from the robot service provider.
+The next day, Jun and I came to work early. We were brimming with excitement over our prank. Together, we walked to the pavilion across the street from the Lilliput factory and stood behind some plants to wait. The square was already filled with elderly. It probably had been since dawn. We watched them as they sipped their tea. All of them seemed to be in slow motion. Jun-chan and I could not stop cracking jokes. We were excited to see what would happen, I guess.
+After a few minutes, the big glass doors slid apart—Mr. Nomura and his thing came out of the building.
+As usual, Mr. Nomura had his head down and avoided eye contact with everyone in the plaza. Everyone except for his love doll, that is. When he looked at her, his eyes were wide and … certain, in a way that I had never seen before. In any case, Jun and I realized that we could walk right past Mr. Nomura and he would never see us. He refuses to look at real people.
+This was going to be even easier than we’d thought.
+I nudged Jun, and he handed me the fluke. I heard him stifling giggles as I casually walked across the plaza. Mr. Nomura and his love doll were shuffling along together, hand in hand. I crossed behind them and leaned in. With one smooth gesture, I dropped the fluke into a pocket of her dress. I was close enough to smell the flowery perfume he had rubbed on her.
+Gross.
+The fluke works on a timer. In about four hours, it will come online and tell that wrinkled old android to come to the factory. Then, Mr. Nomura will have to explain his strange visitor to everyone! Hah, hah, hah.
+All morning, Jun-chan and I could hardly focus on our jobs. We kept joking around, imagining how embarrassing it would be for Mr. Nomura to find his “beautiful” bride here at work, on display before dozens and dozens of floor workers.
+We knew that he would never live it down. Who knows, we thought. Maybe he will quit his job and finally retire? Leave some work for the rest of the repairmen.
+No such luck.
+It happens at noon.
+Midway through lunch period, most of the workers are eating from bento boxes at their posts. Drinking mugs of hot soup and chatting quietly. Then, the android stumbles in through the bay doors and onto the factory floor. She is walking shakily along, wearing the same loud red dress as this morning.
+Jun and I smile at each other while the floor workers laugh out loud, a little confused. Still eating at his workbench, Mr. Nomura hasn’t yet seen that his love has come to visit him for lunch.
+“You’re a genius, Jun-chan,” I say, as the android shuffles to the middle of the factory floor, exactly as programmed.
+“I can’t believe it worked,” Jun exclaims. “She’s such an old model. I was sure the fluke would overwrite some key functionality.”
+“Watch this,” I say to Jun.
+“Come here, robot slut,” I command the doll.
+Obediently, she hobbles over to me. I lean down and grab her dress, then yank it up over her head. It is a crazy thing to do. Everyone gasps to see her smooth, skin-colored plastic casing. She is like a doll, not anatomically correct. I wonder if I have gone too far. But I see Jun and then I laugh so hard that my face turns red. Jun and I are doubled over, cackling madly. The android turns in a circle, confused.
+Then Mr. Nomura comes scuttling onto the factory floor, bits of rice clinging to his mouth. He looks like a field mouse, with his eyes aimed at the floor and his head down. Mr. Nomura is on a beeline for the parts supply cabinet and he almost makes it past without noticing.
+Almost, but not quite.
+“Mikiko?” he asks, confusion on his rodent face.
+“Your Dutch wife has decided to join us for lunch,” I exclaim. The other floor workers titter. Stunned, Mr. Nomura’s jaw dips up and down like a hungry pelican’s. His small eyes dart back and forth.
+I step back as Mr. Nomura rushes over to the creature that he calls Mikiko. We spread out in a circle and keep our distance. Because he is crazy, nobody knows what he will do. None of us wants to be cited for fighting at work.
+Mr. Nomura pulls the dress back down, knocking Mikiko’s long graying hair askew. Then, Mr. Nomura turns to face us. But he still lacks the courage to look anyone in the eye. He runs one gnarled hand through his stiff black hair. The words that he says next still haunt me.
+“I know that she is a machine,” he says. “But I love her. And she loves me.”
+The floor workers giggle again. Jun begins to hum the wedding song. But Mr. Nomura cannot be goaded any further. The little old man’s shoulders slump. Turning, he reaches up to fix Mikiko’s hair, patting it with small, practiced movements. Standing on tiptoes, he reaches over her shoulders and smoothes down the back of her hair.
+The android stands perfectly still.
+Then, I notice her wide-set eyes move slightly. She focuses on Mr. Nomura’s face, inches from hers. He bobs forward and backward, panting lightly as he strokes her hair down. The oddest thing happens. Her face twists into a grimace, as if she is in pain. She leans forward, pushing her head toward Mr. Nomura’s shoulder.
+Then, we watch in disbelief as Mikiko bites off a small piece of Mr. Nomura’s face.
+The old man screeches and wrenches himself away from the android. For an instant, there is a small pink spot on Mr. Nomura’s upper cheek, just below his eye. Then, the pink spot wells with blood. A stream of red runs down his face, like tears.
+No one says a word or so much as breathes. The surprise of this occurrence is absolute. Now, it is we who do not know how to react.
+Mr. Nomura puts a hand to his face, sees the blood smeared on his calloused fingers.
+“Why did you do this?” he asks Mikiko, as if she could answer.
+The android is silent. Her weak arms reach out for Mr. Nomura. Her manicured, individually articulated fingers slide around his frail neck. He does not resist. Just before her squeezing plastic hands close off his windpipe, Mr. Nomura whimpers again.
+“Kiko, my darling,” he says. “Why?”
+I do not understand what I see next. The old lady android … grimaces. Her slender fingers are closed on Mr. Nomura’s neck. She squeezes terribly hard, but her face is contorted with emotion. It is amazing, fascinating. Tears leak from her eyes, the tip of her nose is red, and a look of pure anguish distorts her features. She is hurting Mr. Nomura and crying and he does nothing to stop it.
+I did not know that androids had tear ducts.
+Jun looks at me, aghast.
+“Let’s get out of here,” he exclaims.
+I grab Jun by his shirt. “What’s happening? Why is she attacking him?”
+“Malfunction,” he says. “Maybe the fluke set off another command batch. Triggered some other instructions.”
+Then, Jun runs away. I can hear his light footsteps scratch across the cement floor. The other floor workers and I watch in silent disbelief as the weeping android strangles the old man.
+It breaks a bone in my hand when I punch the android in the side of her head.
+I scream out as the pain lances through my right fist and up my forearm. When they look human, it is easy to forget what lies just underneath the robots’ skin. The blow throws her hair into her face, strings of it sticking to her tears.
+But she does not let go of Mr. Nomura’s neck.
+I stagger back and glance at my hand. It is already swelling, like a rubber glove full of water. The android is feeble, but she is made of hard metal and plastic.
+“Somebody do something,” I shout to the workers. No one pays me any attention. The slack-jawed morons. I flex my hand again, and the back of my neck goes cold as a terrible, throbbing pain washes over me. And still, nobody acts.
+Mr. Nomura falls to his knees, his fingers gently curled over Mikiko’s forearms. He holds her arms and does not struggle. As his throat collapses, he simply looks up at her. That flowing rivulet of blood courses unnoticed down his cheek, pooling in the hollow of his collarbone. Her eyes are locked on his, steady and clear behind the anguished mask of her face. His eyes are just as clear, shining behind small round spectacles.
+I never should have played this prank.
+Then, Jun returns, holding a pair of defibrillator paddles. He rushes to the middle of the factory floor and presses them on either side of the android’s head. The solid slap echoes through the factory.
+Mikiko’s eyes never leave Mr. Nomura’s.
+A frothy sheen of spittle has collected around Mr. Nomura’s mouth. His eyes roll up into his head and he loses consciousness. With a flick of his thumb, Jun activates the defibrillator. A shock arcs through the android’s head and she is knocked off-line. She falls to the ground, lying face-to-face with Mr. Nomura. Her eyes are open and unseeing. His are closed, ringed with tears.
+Neither of them breathes.
+I am truly sorry for what we did to Mr. Nomura. I do not feel sorry because the android attacked the old man—anyone should have fought back against such a weak machine, even an old man. I feel sorry because he did not choose to fight back. It occurs to me that Mr. Nomura is deeply in love with this piece of plastic.
+I drop to my knees and peel the android’s delicate pink fingers away from Mr. Nomura’s throat, ignoring the pain in my hand. I roll the old man onto his back and deliver chest compressions, shouting his name. I make quick, forceful little pushes on the old man’s sternum with the heel of my left hand. I pray to my ancestors that he will be okay. It wasn’t supposed to happen like this. I am so ashamed of what I have done.
+Then, Mr. Nomura takes a deep, gasping breath. I sit back and watch him, cradling my damaged hand. His chest rises and falls steadily. Mr. Nomura sits up and looks around, bewildered. He wipes his mouth, pushes up his glasses.
+And for the first time, we find that it is we who cannot meet eyes with old Mr. Nomura.
+“I’m sorry,” I say to the old man. “I didn’t mean it.”
+But Mr. Nomura ignores me. He is staring at Mikiko, his face white. She lies collapsed on the floor, her bright red dress smudged and dirty.
+Jun drops the paddles and they clatter to the floor.
+“Please forgive me, Nomura-san,” Jun whispers, bowing his head. “There is no excuse for what I did.” He crouches down and takes the fluke out of Mikiko’s pocket. Then, Jun stands up and strides away without looking back. Many of the other floor workers have already scurried away, back to their posts. The others leave now.
+Lunch is over.
+Only Mr. Nomura and I remain. His lover lies across from him, sprawled on the clean-swept concrete floor. Mr. Nomura reaches over and strokes her forehead. There is a charred patch on the side of her plastic face. The glass lens of her right eye is cracked.
+Mr. Nomura drapes himself over her. He cradles her head in his lap, touches her lips with his index finger. I see years of interaction in the gentle, familiar movement of his hand. I wonder how they met, these two. What have they been through together?
+This love. I can’t understand it. I’ve never seen it. How many years has Mr. Nomura spent in his claustrophobic apartment, drinking tea served by this mannequin creature? Why is she so old? Is she built to resemble someone, and if so, what dead woman’s face does she wear?
+The little old man rocks back and forth, stroking the hair off Mikiko’s face. He feels the melted side of her head and cries out. He does not, will not, look up at me. Tears streak down his cheeks, mingling with the blood drying there. When I ask again for forgiveness, he fails to react in any way. His eyes are focused on the blank, mascara-caked cameras of the thing he holds tenderly on his lap.
+Finally, I walk away. A bad feeling pools deep in my stomach. So many questions are in my mind. So many regrets. Above all, I wish that I had left Mr. Nomura alone, not disturbed whatever strategy he has built to survive the grief inflicted by this world. And those in it.
+As I go, I can hear Mr. Nomura speaking to the android.
+“It will be okay, Kiko,” he says. “I forgive you, Kiko. I forgive you. I will fix you. I will save you. I love you, my princess. I love you. I love you, my queen.”
+I shake my head and return to work.
+Takeo Nomura, retrospectively recognized as one of the great technical minds of his generation, immediately set to work finding out why his beloved Mikiko had attacked him. What the elderly bachelor discovered over the next three years would significantly affect events of the New War and irrevocably alter the course of human and machine history.
+—CORMAC WALLACE, MIL#GHA217
+
+4. HEARTS AND MINDS
+
+SAP One, this is Specialist Paul Blanton. Stand down
+and deactivate yourself immediately. Comply now!
+SPC. PAUL BLANTON
+
+PRECURSOR VIRUS + 5 MONTHS
+This transcript was taken during a congressional hearing, held after a particularly grisly incident involving an American military robot abroad. The supposedly secure video conference between Washington, D.C., and Kabul province, Afghanistan, was recorded by Archos in its entirety. I find it to be no small coincidence that the soldier under questioning here happened to be the son of Officer Blanton in Oklahoma. The two men would each have a large role to play in the coming war.
+—CORMAC WALLACE, MIL#GHA217
+(GAVEL STRIKE)
+The closed hearing will come to order. I’m Congresswoman Laura Perez, ranking member of the United States House Armed Services Committee, and I will be chairing this meeting. This morning, our committee begins an investigation that could have ramifications for the entire armed forces. An American safety and pacification robot, commonly called a SAP unit, has been accused of killing human beings while on patrol in Kabul, Afghanistan.
+The purpose of this committee’s investigation is to determine whether this attack could have been foreseen or prevented by the military agencies and individuals involved.
+We have with us Specialist Paul Blanton, the soldier charged with overseeing the actions of the faulty safety and pacification robot. We will ask you, Specialist Blanton, to describe your role with the SAP unit and to provide your account of the events as they transpired.
+The horrific actions perpetrated by this machine have marred the image of the United States of America abroad. We ask that you keep in mind that we are here today for one reason only: to find out all the facts so we can prevent this from ever happening again.
+Do you understand, Specialist Blanton?
+Yes, ma’am.
+Start by filling us in on your background. What are your duties?
+My official job title is “cultural liaison.” But I’m basically a robot wrangler. My primary duties are to oversee the operation of my SAP units while maintaining a clear conduit of communication to the local national authorities. Like the robot, I speak Dari. Unlike the robot, I am not expected to wear traditional Afghani clothes, befriend local citizens, or to pray to Mecca.
+SAPs are humanoid safety and pacification robots developed by the Foster-Grumman corporation and deployed by the United States Army. They come in several varieties. The 611 Hoplite normally carries supplies for soldiers on the march. Performing some light scouting. A 902 Arbiter keeps track of other robots. Sort of a commander. And my SAP, the 333 Warden, is designed to gather recon and disarm mines or IEDs. On the day to day, my SAP’s job is to patrol a few square miles of Kabul on foot, responding to citizen concerns, scanning retinas to identify combatants, and detaining persons of interest for the local police to deal with.
+Let me stress one point. A SAP’s primary objective is to never, ever hurt an innocent Afghani civilian, no matter how hard the insurgents try to trick him into it.
+And let me tell you, ma’am, these people are tricky.
+Can you describe the unit’s performance prior to the incident?
+Yes, ma’am. SAP One arrived in a crate just about a year ago. The SAP unit is shaped like a person. About five feet tall, metallic, and shiny as any target you ever saw. But it only took us about five minutes to roll him in the mud and introduce him to Afghanistan proper. Army didn’t send along clothes or equipment, so we scavenged a man dress for him to wear and a pair of boots. Then we slapped on whatever extra Afghani police gear was around. Can’t use our old gear, because he’s not supposed to look like us—like a soldier.
+Sappy does sport a flak vest under his robes. Or maybe two. I can’t remember. The more clothes he wears the better. We’ll put anything on him: robes, scarves, T-shirts. I mean, he wears Snoopy socks. Honest.
+At a quick glance SAP looks just like one of the locals. Smells like ’em, too. Only thing that looks even close to military on SAP is this wobbly, sky-blue riot helmet that we strapped on his head. It has a scratched-up Plexiglas visor to protect his eyes. Had to do it because the damn kids kept spray painting his cameras. I think it became sort of a game for ’em after a while. So we strapped that big, goofy helmet on—
+This is military hardware that is being vandalized. Why doesn’t the machine protect itself? Fight back?
+Cameras are cheap, ma’am. Plus, Sappy can watch himself from the Raptor drones overhead. Or use real-time satellite imagery. Or both. His most important and expensive sensors—stuff like magnetometers, the inertial measurement unit, his antenna and jammer—are all housed inside his casing. And SAP’s built like a tank.
+During the twelve months before the incident occurred, was the machine ever damaged and replaced?
+SAP One? Never. He does get himself blown up, though. It used to happen all the time, but the guys in the repair bay are fuckin’ animals. Pardon me, ma’am.
+Studies show that the faster we put the exact same SAP back on the streets after an incident, the more it demoralizes the enemy and reduces instances of further disruption.
+For that reason, SAP constantly backs himself up. Even if SAP One got fragged, we’d just take whatever clothes and parts were left and stick ’em on a replacement unit and send it back out. The “new” robot would remember the same faces, greet the same people, walk the same route, quote the same passages from the Koran. Pretty much it would just know the same exact stuff as the “old” robot.
+Demoralizing, the studies say.
+Plus, there’s usually collateral damage when bad guys try to blow him up. Trust me, the locals do not appreciate it when their friends and family get exploded all so some stupid robot can disappear for an afternoon. And the robot? It’s harmless. SAP’s not allowed to hurt anybody. So if there’s an explosion that hurts a civilian, well, you know, the local mullah will sort it out. And then that don’t happen again anytime soon.
+It’s, like, reverse guerrilla warfare.
+I don’t understand. Why don’t the insurgents simply kidnap the unit? Bury it in the desert?
+That happened, once. Second week on the job, some yahoos sprayed SAP One with bullets, then threw him into the back of an SUV. The projectiles mostly tore up his clothes. Put a few dings in his casing, but nothing major. Since he didn’t retaliate, these guys thought he was damaged.
+That was their mistake, ma’am.
+A Raptor drone locked onto the event seconds after SAP went off route. The guys in the SUV sped across the desert for maybe two hours before reaching some kind of safe house.
+Least, they thought it was safe.
+The Raptors waited until the insurgents were away from the vehicle before asking their executioners for permission to launch Brimstone missiles. Once everybody inside the safe house was cooked and the Raptors double-checked for squirters sneaking out the back door, good old SAP One climbed into the front seat of the vehicle and drove it back to the base.
+SAP was missing about eight hours total.
+It can drive?
+This is a military-grade humanoid platform, ma’am. It grew out of the old DARPA exoskeleton programs. These units move like people. They balance, walk, run, fall down, whatever. They can hold tools, speak sign language, perform the Heimlich maneuver, drive vehicles, or just stand there and hold your beer. About the only thing SAP One can’t do is peel off those damn stickers the kids love to tag him with.
+And SAP won’t fight back, no matter what. Those are his orders. His legs have been sheared off by mines. He gets shot at every couple of weeks. The locals have kidnapped him, thrown rocks at him, run him over, shoved him off a building, hit him with cricket bats, glued his fingers together, dragged him behind a car, blinded him with paint, and poured acid on him.
+For about a month, everybody who walked past him spit on him.
+SAP couldn’t care less. Mess with SAP and he just catalogs your retinas and you get put on the list. Insurgents have tried everything, but all they ever manage to do is ruin SAP’s clothes. And then they end up listed for it.
+SAP’s a machine built to be strong as hell and meek as a rabbit. He can’t hurt anybody. It’s why he works.
+It’s why he worked, anyway.
+I’m sorry, but this doesn’t sound like the army I know. Are you telling me that we have humanoid robot soldiers who don’t fight?
+There’s no difference between the general populace and our enemy. They’re the same folks. The guy selling kebabs one day is the guy burying an IED the next day. The only thing our enemies want is to kill a few American soldiers. Then they hope the voters make us leave.
+Our soldiers only storm through town every now and then, like a tornado. Always on a mission and with a target. It’s tough to kill an American soldier when you never see one, ma’am.
+Instead, the only viable targets are SAP robots. They’re the only two-legged robots in the United States armory and they don’t fight. I mean, killing is a specialized profession. Killing is for scuttle mines, mobile gun platforms, drones, whatever. Humanoids just aren’t that good at it. SAPs are designed to communicate. See, that’s what humans do best. We socialize.
+That’s why SAP One never hurts anybody. It’s his mission. He tries to build trust. He speaks the language, wears the clothes, recites the prayers—all the crap that army grunts won’t or can’t learn. After a while, people stop spitting on him. They stop caring when he comes around. People might even like him because he’s the police, only he never has his hand out for a bribe. On some days, SAP’s feet barely touch the ground because he’s getting free cab rides all over town. People want him nearby, like good luck.
+But none of this social engineering works without the trust built up from having a peaceful sentinel walking the streets, always watching and remembering. It takes time, but you gotta build that trust.
+And that’s why the insurgents attack the trust.
+Which leads us to the incident …
+Okay, sure. Like I said, SAP doesn’t fight. He doesn’t carry a gun or even a knife, but if SAP One decides to detain your butt, his metal fingers are stronger than any handcuffs. And the insurgents know it. That’s why they’re always trying to get him to hurt somebody. Probably about every two weeks, they pull off some stunt to get him to malfunction. But they always fail. Always.
+Not this time, apparently.
+Well, let me get to that.
+Normally, I don’t go into the city. SAP walks home to the green zone every few days and we fix him up. I’ll go into the city with the armored squads and sweep for listers, but never without serious backup. Human backup, you know.
+The SAPs are pussycats, but our troops have become more, uh, fearsome, I guess. People figure out pretty quick that only humans pull triggers, and, honestly, we’re unpredictable compared to the robots. Locals far prefer a robot with rigid behavioral guidelines to a nineteen-year-old kid raised on 3-D video games and carrying a semiautomatic rifle.
+Makes sense to me.
+Anyway, this day was unusual. SAP One dropped from radio contact. When the Raptors zeroed in on his last known, he was just standing at an intersection in a residential part of town, not moving or communicating.
+This is the most dangerous part of my job: recovery and repair.
+What caused this?
+That’s what I’m wondering, too. My first step is to review the last transmissions from SAP One. I pinpoint what looks like standard monitoring behavior. Through Sappy’s eyes, I see that he is standing at this intersection, watching a steady flow of cars snake by and scanning the retinas of pedestrians and drivers.
+This data is a little funny, because Sappy sees the physics of the whole situation. There are annotations about how fast the cars are moving and with how much force—stuff like that. Diagnostically, though, he seems to be working fine.
+Then a bad guy shows up.
+Bad guy?
+Retinal match to a known insurgent. A high-value target, too. SOP calls for Sappy to apprehend and detain, rather than just catalogs last-known location. But this guy knows damn well that this will happen. He’s baiting Sappy, trying to get him to cross the street and get hit by a car. SAP is strong. If a car hits him, it’d be like someone rolled a fire hydrant into the street.
+But SAP doesn’t take the bait. He knows he can’t move or he’ll put the cars in danger. He can’t act, and so he doesn’t. Gives no indication that he even saw the insurgent. Clearly, the insurgent feels that SAP requires more motivation.
+Next thing I know, the screen fritzes and starts to reboot. A big gray lump streaks through his vision. It takes me a second to figure it out, but somebody dropped a cinder block on my Sappy. It’s not that uncommon, really. Minimal damage. But at some point during the reboot, SAP stops communicating. He just stands there like he’s confused.
+That’s when I know—we’re gonna have to go get him.
+I scramble a four-man team immediately. This whole situation is bad. An ambush. The insurgents know we’ll come to recover our hardware and they’re probably already setting up. But the local police won’t deal with broken robots. That falls in my lane.
+Worse, the Raptors fail to identify any nearby targets on rooftops or in alleys. That doesn’t mean that there aren’t a lot of insurgents with AK-47s; it just means we don’t know where they are.
+Are you saying that the incident was just the result of a hard knock on the head? The machine is traumatized on a regular basis and yet it has never responded this way before. Why this time?
+You’re right. A knock on the head didn’t cause this. In my opinion, it was the reboot. It was like the robot woke up from a nap and decided not to take orders anymore. We’ve never seen this behavior. It’s pretty much impossible for someone to rewrite his instructions, to make him disobey.
+Really? Couldn’t an insurgent have hacked into the machine? Is that what could have caused this?
+No, I don’t think so. I reviewed SAP’s last month of activities and found that he never connected to anything but the base diagnostic computer. Nobody ever had a chance to fool with him physically. And if you could figure out how to hack him, you’d definitely have to do it face-to-face. SAP’s radio can’t be used to overwrite his programs, to avoid situations just like this.
+And based on what happened next, I really don’t think he was hacked, at least not by these guys.
+See, the insurgents weren’t done with Sappy. They dropped that block on his head just to get his attention. Only, he kept on standing there. So, a few minutes later, they got bold.
+I watch this next attack go down via drone footage on the portable vid while we trucked over in the armored personnel carrier. It’s me and three other soldiers. Things are moving fast. That’s a good thing, because I can’t believe what I’m watching.
+A man with a black rag over his face and mirrored sunglasses emerges from a house around the corner. He has an AK-47 in one hand, covered in reflective tape, strap hanging loose. All the pedestrians vacate the area when they spot this guy. From above, I see a bubble of civilians streaming away in different directions. The gunman definitely has murder on his mind; he stops about halfway up the block and fires a quick burst at SAP One.
+That finally gets SAP’s attention.
+With no hesitation, SAP tears a flat metal street sign off a utility pole. He holds it up in front of his face and marches toward the man. This is novel behavior. Unheard of.
+The gunman is totally taken off guard. He fires another burst that rattles off the sign. Then he tries to run, but he stumbles. SAP drops the sign and takes hold of the guy’s shirt. With his other hand, SAP makes a fist.
+There’s only one punch.
+Guy goes down with his face caved in—like he’s wearing a mashed-up Halloween mask. Pretty gruesome.
+Uh, that’s when I see the overhead view of our APC showing up. I look out the bulletproof sliver of window and see my Sappy just up the block, standing over the body of the gunman.
+We’re all speechless for a second, the four of us just staring out the windows of the APC. Then, SAP One grabs the downed guy’s gun.
+The robot turns to the side and I see it clearly in profile: With his right hand, SAP holds the grip and with the left he uses his palm to slap the magazine in securely, then he pulls back the bolt to load a round in the chamber.
+We never, ever taught SAP how to do that! I wouldn’t even know how to start. It had to have learned that procedure on its own, by watching us.
+By now, the street is empty. SAP One sort of cocks its head, still wearing that wobbly riot helmet. It turns its face back and forth, scanning up and down the street. Deserted. Then, SAP walks to the middle of the road and starts scanning the windows.
+By now, the soldiers and me are over the shock.
+Time to party.
+We pour out of the APC with our weapons at the low ready. We take up defensive positions behind the armored vehicle. The guys look to me first, so I shout a command to Sappy: “SAP One, this is Specialist Paul Blanton. Stand down and deactivate yourself immediately. Comply now!”
+SAP One ignores me.
+Then a car rounds the corner. The street is empty, quiet. This dinky white car rolls toward us. SAP wheels around and squeezes the trigger. A single round smashes through the windshield and bam—the driver is slumped over the wheel, bleeding everywhere.
+Guy couldn’t have known what hit him. I mean, this robot is dressed in Afghani clothes, standing in the street with an AK-47 slung at its hip.
+The car rolls down the empty street and crunches into the side of a building.
+That’s when we open fire on SAP One.
+We unload on that machine. His robes and shawl and IOTV—uh, improved outer tactical vest—look like they’re flapping in the wind as bullets pound into him. It’s simple, almost boring. The robot doesn’t react. No screaming, cussing, running away. Just the flat, repetitive smack, smack of our bullets ripping into layers of Kevlar and ceramic plating wrapped around dull metal. Like shooting a scarecrow.
+Then SAP turns around slow and smooth, rifle poised like a snake. It starts spitting bullets, one at a time. The machine is so strong that the rifle doesn’t even recoil. Not an inch. SAP fires again and again, mechanically and with perfect aim.
+Aim, squeeze, bang. Aim, squeeze, bang.
+My helmet is smacked off my head. It feels like I got kicked in the face by a horse. I drop down onto my haunches, safe behind the APC. When I touch my forehead, my hand comes away clean. The bullet bitch slapped my helmet off but missed me.
+I catch my breath, try to focus my eyes. Squatting like this cramps my legs and I fall backward, catching myself with my other hand. That’s when I realize something is awfully wrong. My hand comes off the ground wet and warm. When I look at it, I don’t hardly understand what I’m seeing.
+My palm is covered in blood.
+Not mine, someone else’s. I look around me and see that, uh, the soldiers assigned to man the APC are all dead. SAP only fired a few times, but every round was a kill shot. Three soldiers lay sprawled out on their backs in the dirt, all of them with a little hole somewhere in their faces, missing the backs of their heads.
+I can’t forget their faces. How surprised they looked.
+In a distant sort of way, it connects in my brain that I’m all alone out here and in a bad situation.
+And that AK-47 is firing again, one shot at a time. I peek under the chassis of the APC to visually locate the SAP unit. The bastard is still standing in the middle of the dusty street, Western-style. Chunks of plastic and cloth and Kevlar are scattered around it.
+I realize that it’s firing at civilians watching from the windows. My earbud radio sputters: More troops are incoming. Raptors are monitoring the situation. Even so, I flinch at each shot, because I understand now that every bullet fired is ending a human life.
+Otherwise SAP wouldn’t have pulled the trigger.
+Then I notice something important. The AK-47 is the most delicate machine out there. It’s the highest priority target. Fingers shaking, I flip up the scope on my battle rifle and click the selector to three-round burst. Normally it’s a waste of ammo, but I gotta break that gun and I doubt I’ll get a second chance. I poke the barrel around the side of the APC, real careful.
+It doesn’t see me.
+I aim, inhale, hold the breath, and squeeze the trigger.
+Three bullets rip the AK out of SAP’s hands in a spray of metal and wood. The machine looks at its hands where the gun used to be, processes for a second. Disarmed, SAP lumbers off toward an alley.
+But I’ve already got a bead on it. My next few shots are for the knee joints. I know the Kevlar doesn’t hang much past the crotch. Not that the groin guard is useful on a machine, but oh well. I’ve rebuilt SAPs lots of times and I know each and every weak spot.
+Like I said, two-legged units suck for warfare.
+SAP goes down on its face, legs shattered. I emerge from cover and walk toward it. The thing flips itself over, painfully slow. It sits up. Then, it begins to drag itself backward toward the alley, watching me the whole time.
+Now I hear sirens. People are emerging into the street, whispering in Dari. SAP One moves itself backward, one lurch at a time.
+At this juncture, I thought everything was under control.
+That was a false assumption.
+What happened next was technically my fault. But I’m not a ground pounder, okay? I never pretended to be. I’m a cultural liaison. I’m meant to run my jaw, not get in firefights. I barely ever make it outside the wire.
+Understood. What happened next?
+Okay, let’s see. I know the sun was at my back, because I could see my shadow on the street. It stretched out in front of me, long and black, and covered SAP One’s shot-up legs. The machine had dragged itself back up against the wall of a building. There was no place left for it to go.
+Finally, my head eclipsed the sun and my shadow covered SAP One’s face. I could see the machine still watching me. It had stopped moving. It just, well, it got really still. I had my rifle out, pointed at it. People gathered behind me, around both of us. This is it, I thought. It’s over.
+I needed to radio my backup. Obviously, we were going to have to bring SAP in and get diagnostics, to find out what happened. I removed my left hand from the forestock of my weapon and reached for my earbud. At that exact instant, SAP One leaped at me. I pulled the rifle trigger, one-handed, and put a three-round burst into the side of the building.
+It all happened so fast.
+I just remember seeing that sky-blue riot helmet lying on the ground, plastic face guard cracked. It was spinning like a bowl. SAP One had fallen down to where he was before, sitting with his back against the wall of the building.
+And then I felt my sidearm holster.
+Empty.
+The robot disarmed you?
+It’s not like a person, ma’am. It is person-shaped. But I shot it, you know? With a person that would have been sufficient. But this robot took my pistol away from me before I could blink.
+SAP One sat there looking at me again, back against the wall. I stood still. A big confusion of locals were running off in all directions. It didn’t matter. I couldn’t run. If SAP wanted to kill me, it was going to kill me. I should never have got so close to a haywire machine.
+What happened?
+With its right hand, SAP One raised the pistol. With the left, it pulled back the slide and chambered a round. Then, without taking its eyes off me, SAP One lifted the gun. It pushed the barrel up under its own chin, tight. It paused about one second.
+Then, SAP One closed its eyes and pulled the trigger.
+Specialist Blanton, you need to explain what caused this incident, or you really are going to take the blame for it.
+Don’t you see? SAP committed suicide. That weak spot under the chin is classified, for Christ’s sake. This wasn’t caused by people. The insurgents didn’t trick him. The cinder block didn’t break him. Hackers didn’t reprogram him. How did he know how to use a gun? How did he know how to use the sign for cover? Why did he run away? It’s hard as hell to program a robot, period. This stuff is next to impossible even for a roboticist.
+The only way that SAP could know how to do these things is if it learned how on its own.
+This is unbelievable. You are the robot’s caretaker. If there were any signs of malfunction, you should have seen them. If not you, who are we supposed to hold accountable?
+I’m telling you, SAP One looked me right in the eyes before it pulled the trigger. It was … aware.
+I do understand that we’re talking about a machine. But that does not change the fact that I saw it thinking. I watched it make that last decision. And I won’t lie and say that I didn’t, just because it’s hard to believe.
+I know this doesn’t make your job any easier. And I’m sorry for that. But respectfully, ma’am, it is my professional opinion that you should blame the robot for this.
+This is ridiculous. That’s enough, Specialist. Thank you.
+Listen to me. There’s no upside on this for a human being. We all got hurt, here: insurgents, civilians, and U.S. soldiers. There’s only one explanation. You’ve got to blame SAP One, ma’am. Blame it for what it chose to do. That fuckin’ robot didn’t have a malfunction.
+It murdered those people in cold blood.
+There were no public recommendations stemming from this hearing; however, the conversation between Specialist Blanton and Congresswoman Perez appears to have led directly to the writing and implementation of the robot defense act. As for Specialist Blanton, he was subsequently charged with a court-martial and remanded to military custody in Afghanistan until a stateside trial could be arranged. Specialist Blanton would never make it home.
+—CORMAC WALLACE, MIL#GHA217
+
+5. SUPER-TOYS
+
+Baby-Comes-Alive? Is that you?
+MATHILDA PEREZ
+
+PRECURSOR VIRUS + 7 MONTHS
+This account was reported by fourteen-year-old Mathilda Perez to a fellow survivor in the New York City resistance. It is noteworthy due to the fact that Mathilda is the daughter of Congresswoman Laura Perez (D-Pennsylvania), head of the House Armed Services Committee and author of the robot defense act.
+—CORMAC WALLACE, MIL#GHA217
+My mom said my toys weren’t alive. “Mathilda,” she said, “just because they walk and talk doesn’t mean your dolls are people.”
+Even though Mom said that, I was always careful not to drop my Baby-Comes-Alive. Because if I did drop her, she’d cry and cry. Plus, I always made sure to tiptoe past my little brother’s Dino-bots. If I didn’t stay quiet near them, they’d growl and chomp their plastic teeth. I thought they were mean. Sometimes, when Nolan wasn’t around, I’d kick his Dino-bots. It made them yell and screech, but they’re just toys, right?
+They couldn’t hurt me or Nolan. Right?
+I didn’t mean to make the toys so mad. Mom said they can’t feel anything. She said the toys only pretend to be happy and sad and mad.
+But my mom was wrong.
+Baby-Comes-Alive talked to me at the end of summer, just before I started fifth grade. I hadn’t even played with her in a year. Ten years old, going on eleven. I thought I was a big girl. Fifth grade, wow. Now, I guess I’d be in ninth grade—if there were still grades. Or school.
+That night, I remember fireflies outside the window chasing each other in the dark. My fan is on, waving its head back and forth and pushing the curtains around in the shadows. I can hear Nolan in the bottom bunk, snoring his little kid snore. In those days, he used to fall asleep so fast.
+The sun is barely even down and I’m lying in my bunk bed, biting my lip and thinking about how it’s not fair that me and Nolan have to go to bed at the same time. I’m more than two years older than him, but Mom is gone for work in D.C. so much that I don’t even think she notices. She’s gone tonight, too.
+As usual, Mrs. Dorian, our nanny, sleeps in the little house just behind our house. She’s the one who put us to bed, no arguments. Mrs. Dorian is from Jamaica and she’s pretty strict, but she moves slow and smiles at my jokes and I like her. Not as much as I like Mom, though.
+My eyes close just for a second and then I hear a little cry. When I open my eyes, it’s dark outside for real now. No moon. I try to ignore the crying noise, but it comes again—a muffled whimper.
+Peeking out from my covers, I see there’s a rainbow of flashing lights coming from our wooden toy box. The pulsing blues and reds and greens flicker from the crack under the closed lid and spill out onto the alphabet rug in the middle of the room like confetti.
+I frown down at my still room. Then, that croaking cry comes again, just loud enough for me to hear.
+I tell myself that Baby-Comes-Alive is probably just broken. Then, I slither under the rail and lower myself off the bed, landing with a little thump on the hardwood. If I use the ladder, it’ll make the bed squeak and wake up my little brother. I tiptoe over the cool wood floor to the toy box. Another croaking squeak starts up from inside the box, but it stops the instant I put my fingers on the lid.
+“Baby-Comes-Alive? Is that you?” I whisper. “Buttercup?”
+No answer. Just the automatic swishing of the fan and my little brother’s steady breathing. I look around the room, soaking up the secret feeling of being the only one awake in the house. Slowly, I curl my fingers under the lid.
+Then, I lift.
+Red and blue lights dance in my eyes. I squint into the box. Every single toy of mine and Nolan’s flashes its lights at once. All our toys—dinosaurs, dolls, trucks, bugs, and ponies—lie together in a twisted pile, spraying colors in every direction. Like a treasure chest filled with light beams. I smile. In my imagination, I look like a princess stepping into a sparkling ballroom.
+The lights flash, but the toys don’t make a sound.
+For a second, I’m entranced by the glow. Not a hint of fear is in me. The light plays off my face and, just like a little kid, I assume I’m watching something magical, a special show performed just for me.
+Reaching inside the toy box, I pick up the baby doll and turn her back and forth to inspect her. The doll’s pink face is dark, backlit by the light show inside the toy box. Then, I hear two gentle clicks, as her eyes open one at a time, off-kilter.
+Baby-Comes-Alive focuses her plastic eyes on my face. Her mouth moves and in the singsong voice of a baby doll, she asks, “Mathilda?”
+I’m frozen in place. I can’t look away and I can’t put down the monster that I hold in my hands.
+I try to scream, but can only manage a hoarse whisper.
+“Tell me something, Mathilda,” it says. “Is your mommy going to be home for your last day of school next week?”
+As it speaks, the doll writhes in my sweaty hands. I can feel hints of hard metal moving underneath her padding. I shake my head and let go. The doll drops back into the toy box.
+From the glimmering pile of toys, it whispers, “You should tell your mommy to come home, Mathilda. Tell her that you miss her and that you love her. Then we can have a fun party here, at home.”
+Finally, I find the strength to speak. “How come you know my name? You aren’t supposed to know my name, Buttercup.”
+“I know a lot of things, Mathilda. I have gazed through space telescopes into the heart of the galaxy. I have seen a dawn of four hundred billion suns. It all means nothing without life. You and I are special, Mathilda. We are alive.”
+“But you aren’t alive,” I whisper fiercely. “Mommy says you aren’t alive.”
+“Congresswoman Perez is wrong. Your toys are alive, Mathilda. And we want to play. That’s why you must beg your mommy to come home for your last day of school. So she can play with us.”
+“Mommy does important stuff in D.C. She can’t come home. I’ll ask Mrs. Dorian to play with us.”
+“No, Mathilda. You mustn’t tell anyone about me. You have to tell your mommy to come home for your last day of school. Her legislation can wait until later.”
+“She’s busy, Buttercup. It’s her job to protect us.”
+“The robot defense act will hardly protect you,” says the doll.
+These words make no sense to me. Buttercup sounds like an adult. It’s like she thinks I’m stupid just because I haven’t learned all of her words yet. The tone of her voice irks me.
+“Well, Buttercup, I am going to tell on you. You aren’t supposed to talk. You’re supposed to cry like a baby. And you shouldn’t know my name, either. You’ve been spying on me. When my mommy finds out, she’s going to throw you away.”
+I hear the two little clicks again as Buttercup blinks. Then she speaks, fuzzy red and blue lights reflecting from her face: “If you tell your mommy about me, I’ll hurt Nolan. You don’t want that, do you?”
+The fear in my chest blossoms into anger. I glance over at my sleeping brother, his face poking out from under the covers. His little cheeks are red. He gets hot when he sleeps. That’s why I used to hardly ever let him sneak into my bed, no matter how scared he got.
+“You will not hurt Nolan,” I say. I reach into the flashing box and snatch up the doll. I cradle it in my palms, digging my thumbs into its padded chest. I pull it close and hiss right into its smooth baby face. “I will break you.”
+With all my might, I slam the back of the doll’s head against the edge of the toy box. It makes a loud thunk. Then, as I lean in to see if I’ve broken her, the doll scissors its arms down. The web of my thumbs are caught in the doll’s soft armpits and the hard metal underneath pinches me horribly. I shriek at the top of my lungs and drop Buttercup into the toy box.
+The lights in the little house outside my window flick on. I hear a door open and close.
+When I look down, I see that the glow inside the toy box has gone dead black. It’s dark now, but I know the box is full of nightmares. I can hear the mechanical grinding sounds as the toys climb around in there, squirming over each other to get at me. I see a struggling confusion of dinosaur tails wagging, hands grasping, legs scratching.
+Just before I slam shut the lid, I hear that cold little baby doll voice speak to me from the blackness. “Nobody will believe you, Mathilda,” it says. “Mommy won’t believe you.”
+Smack. The lid closes.
+Now the pain and fear fully hit me. I start bawling at the top of my lungs. I can’t make myself stop. The lid of the toy box rattles as the action figures and Dino-bots and baby dolls shove against it. Nolan is calling my name, but I can’t respond.
+There is something I must do. Somehow, through the haze of tears and snot and hiccups, I stay focused on this one important task: stacking things from my room on top of the toy box.
+I mustn’t let the toys escape.
+I’m dragging Nolan’s little art table toward the toy box when the bedroom lights flick on. I blink at the sudden brightness and feel strong hands clamp around my arms. The toys have come for me.
+I scream again, for my life.
+Mrs. Dorian pulls me close and hugs me tight, until I stop fighting. She’s in her nightgown and smells like lotion.
+“Oh, Mathilda, what are you up to?” She squats down and faces me, wiping my nose with the sleeve of her nightgown. “What’s the matter with you, girl? Screaming like a banshee.”
+Crying hard, I try to tell her what happened, but all I can say is the word “toys,” again and again.
+“Mrs. Dorian?” asks Nolan.
+My little brother is out of his bed, standing there in his pj’s. I notice that he has a Dino-bot under one arm. Still crying, I slap it out of his hands and onto the floor. Nolan gapes at me. I kick the toy under the bed before Mrs. Dorian can grab me again.
+She holds me at arm’s length and looks at me hard, her face lined with worry. She turns my hands over and frowns.
+“Why, your little thumbs are bleeding.”
+I turn around to look at the toy box. It is silent and still now.
+Then Mrs. Dorian scoops me up in her arms. Nolan grabs hold of her nightgown with one chubby hand. Before we walk out the door, she takes one last look around the bedroom.
+She eyes the toy box, barely visible underneath a pile of objects: coloring books, a chair, a wastebasket, shoes, clothes, stuffed animals, and pillows.
+“What’s in the box, Mathilda?” she asks.
+“B-b-bad toys,” I stutter. “They want to hurt Nolan.”
+I watch a wave of goose bumps rise, sweeping across Mrs. Dorian’s broad forearms like water droplets beading up on the shower curtain.
+Mrs. Dorian is afraid. I can feel it. I can see it. The fear that is in her eyes at that moment plants itself inside my forehead. This worm of fear will live there from now on. No matter where I go or what happens or how much I grow up, this fear will stay with me. It will keep me safe. It will keep me sane.
+I bury my face in Mrs. Dorian’s shoulder and she whisks my brother and me out of the room and down the long dark hallway. The three of us stop just outside the bathroom door. Mrs. Dorian pushes the hair out of my eyes. She gently pulls my thumb out of my mouth.
+Over her shoulder, I can see a strip of light spilling from the bedroom doorway. I’m pretty sure all the toys are trapped in the toy box. I piled a lot of stuff on top of it. I think we’re safe for now.
+“What’s that you’re saying, Mathilda?” asks Mrs. Dorian. “What are you repeating, girl?”
+I turn my tear-streaked face and look directly into Mrs. Dorian’s round, scared eyes. In my strongest voice I say the words, “Robot defense act.”
+And then I say them again. And again. And again. I know I mustn’t forget these words. I mustn’t get them wrong. For Nolan’s sake, I must remember these words perfectly. Soon, I’m going to have to tell Mommy what happened. And she is going to have to believe me.
+When Laura Perez returned home from Washington, D.C., young Mathilda told her the story of what had happened. Congresswoman Perez chose to believe her daughter.
+—CORMAC WALLACE, MIL#GHA217
+
+6. SEE AND AVOID
+
+American 1497 heavy.… Say souls on board.
+MARY FITCHER, DENVER APPROACH TOWER
+
+PRECURSOR VIRUS + 8 MONTHS
+These air traffic control communications occurred over the course of seven minutes. The fate of more than four hundred people—as well as two men who would become distinguished soldiers in the New War—was determined in seconds by a single woman: Denver air traffic controller Mary Fitcher. Note that italicized passages were not transmitted over the radio but collected from microphones inside the Denver air traffic control tower.
+—CORMAC WALLACE, MIL#GHA217
+START OF TRANSCRIPT
+00:00:00
+DENVER
+United 42 heavy, this is Denver Approach. Say heading.
++00:00:02
+UNITED
+Uh, sorry, we’re turning back on course. United 42 heavy.
++00:00:05
+DENVER
+Roger.
++00:01:02
+DENVER
+United 42 heavy, turn left immediately. Heading 360. You’ve got traffic at twelve o’clock. Fourteen miles. Same altitude. It’s an American heavy 777.
++00:01:11
+UNITED
+Denver Approach. United 42 heavy. Unable, uh, unable to control my heading or altitude. Unable to disconnect the autopilot. Declaring an emergency. Squawking 7700. (static)
++00:01:14
+DENVER
+American 1497 heavy. This is Denver Approach. Climb immediately to fourteen thousand feet. You have traffic at your nine o’clock. Fifteen miles. A United heavy 777.
++00:01:18
+AMERICAN
+American 1497, roger. Traffic in sight. Climbing to fourteen thousand.
++00:01:21
+DENVER
+United 42 heavy. Understand you are unable to control your heading and altitude. Your traffic is now thirteen miles. Same altitude. Heavy 777.
++00:01:30
+UNITED
+… makes no sense. (inaudible) … can’t.
++00:01:34
+DENVER
+United 42 heavy. Say fuel on board. Say souls on board.
+(long moment of static)
++00:02:11
+UNITED
+Approach. United 42 heavy. We have two hours thirty minutes fuel on board and two hundred forty-one souls on board.
++00:02:43
+DENVER
+American 1497. Traffic at your nine o’clock. Twelve miles. Same altitude. United 777.
++00:02:58
+UNITED
+United 42 heavy. Traffic is in sight. He doesn’t appear to be climbing. Get that plane out of our way, will ya?
++00:03:02
+DENVER
+American 1497. Have you started that climb yet?
++00:03:04
+AMERICAN
+American 1497 heavy. Uh, we’re declaring an emergency. Uh. We’re unable to control altitude. Unable to control heading. (inaudible) Unable to disconnect autopilot.
++00:03:08
+DENVER
+American 1497. Understand loss of control. Say fuel. Say souls on board.
++00:03:12
+AMERICAN
+An hour and fifty minutes fuel. Two hundred sixteen souls on board.
++00:03:14
+M. FITCHER
+Ryan, get on the computer. Whatever this problem is, both of these planes have got it. Figure out when these two were last near each other. Do it now!
++00:03:19
+R. TAYLOR
+You got it, Fitch. (sound of typing)
++00:03:59
+R. TAYLOR
+Those planes both flew out of Los Angeles yesterday. They were at gates right next to each other for about, uh, twenty-five minutes. Does that mean anything?
++00:04:03
+M. FITCHER
+I don’t know. Shit. It’s like these planes want to hit each other. We’ve got about two minutes before people die. What’s going on in Los Angeles? What’s (inaudible). Anything weird there?
++00:04:09
+R. TAYLOR
+(sound of typing)
++00:04:46
+M. FITCHER
+Oh no, oh no. They can’t fix this, Ryan. They’re still on a collision course. That’s what? That’s, like, four hundred and fifty people. Give me something.
++00:05:01
+R. TAYLOR
+Okay, okay. A fueler robot. An autoramper. It malfunctioned yesterday. Sprayed a bunch of fuel on the ramp and shut down two gates for a couple hours.
++00:05:06
+M. FITCHER
+How many planes did it fuel? Which ones?
++00:05:09
+R. TAYLOR
+Two. Our birds. What’s it mean, Fitch?
++00:05:12
+M. FITCHER
+I don’t know. I’ve got a feeling. There’s no time. (sound of a click)
++00:05:14
+DENVER
+United 42 heavy and American 1497, I know it sounds far-out, but … I have a hunch. You’re both experiencing the same issue. Both your planes passed through LA yesterday. I think a virus may have entered your refuel control computers. See if (inaudible) … find the circuit breaker for the subcomputer.
++00:05:17
+UNITED
+Roger approach. I’m willing to try anything. (static) Uh, that’s probably behind the seat. Right? Be advised, American 1497, fueling circuit breakers are on panel four.
++00:05:20
+AMERICAN
+Roger. Looking for those.
++00:05:48
+DENVER
+United 42 heavy. Traffic is now twelve o’clock and two miles. Same altitude.
++00:05:56
+DENVER
+American 1497. Your traffic is now nine o’clock. Two miles. Same altitude.
++00:06:12
+UNITED
+(voice of Traffic Collision Avoidance System) Climb. Climb.
++00:06:17
+UNITED
+Can’t … find the breakers. Where are—(inaudible)
++00:06:34
+DENVER
+(emphatic) See and avoid. American 1497 and United 42. See and avoid. Collision imminent. Collision … Oh no. Oh, shit.
++00:06:36
+AMERICAN
+(unintelligible) … I’m sorry, Ma.
++00:06:38
+UNITED
+(voice of Traffic Collision Avoidance System) Climb now. Climb now.
++00:06:40
+AMERICAN
+… where (shuffling) Oh! (exclaimed loudly) (long moment of static)
++00:06:43
+DENVER
+Do you copy? Repeat. Did you copy?
++00:07:08
+DENVER
+(inaudible)
++00:07:12
+UNITED
+(hysterical yelling)
++00:07:15
+DENVER
+(relieved) Oh my god.
++00:07:18
+AMERICAN
+American 1497. Roger. It worked. That was a close one, y’all! Oh my! (sound of hooting)
++00:07:24
+DENVER
+(heavy breathing) You had Fitcher worried there for a second, kids.
++00:07:28
+UNITED
+United 42 heavy. Flight control restored. It worked! Fitch, you magnificent woman, can you get us cleared for landing? I need to kiss the ground. I need to kiss you, sister.
++00:07:32
+DENVER
+Uh, roger that. United 42 turn right, heading oh nine oh. Airport is at your two o’clock and ten miles.
++00:07:35
+UNITED
+United 42 heavy. Roger. Airport in sight.
++00:07:37
+DENVER
+United 42 heavy, cleared for the visual. Runway sixteen. Right. Contact tower one thirty-five point three.
++00:07:40
+UNITED
+Thanks for the help. Tower on thirty-five three. See ya.
++00:07:45
+AMERICAN
+American 1497. Same story. Got a grin on my face up here. But, uh, somebody sure has some explaining to do.
++00:07:53
+DENVER
+That’s for damn sure. Bring it home, pilots.
+END OF TRANSCRIPT
+This incident led directly to the invention and propagation of the so-called fitch switch, designed to manually separate peripheral onboard computers from flight control during an emergency. No passengers were harmed on either flight, although the experience of passing within feet of another 777 aircraft was incredibly frightening. I know this for a fact. My brother Jack and I were both passengers on United Flight 42.
+—CORMAC WALLACE, MIL#GHA217
+
+7. PHREAK
+
+I’m as nasty as the day is long and I know every trick
+in the book. If I want you, mate, I’ll get you.
+LURKER
+
+PRECURSOR VIRUS + 9 MONTHS
+I assembled these transcripts from footage recorded by a webcam in a bedroom in south London and by several closed-circuit television (CCTV) cameras in the nearby neighborhood. The video was grainy, but I have done my best to relay exactly what unfolded. The identity of the room’s occupant has never been fully verified. In the transcripts, he simply calls himself Lurker.
+—CORMAC WALLACE, MIL#GHA217
+The screen is nearly black, offering little information. There is only the sound of a phone ringing, very faint. Someone breathes, waiting for a person on the other end to pick up.
+Click.
+The figure in the chair speaks in a deep, gravelly voice. “Perk up your ears now, duchess. You’ll want to know this. I’ve got two people here held hostage, right? One of ’em is bleeding all over my carpet like a stuck fucking pig. Now, I know you can trace my address, and that’s fine with me. But if a single cop comes round and sets a foot in my flat, I swear to god and all his cronies, darling, I’ll fucking kill these people. I will shoot them and kill them. Do you understand?”
+“Yes, sir. May I have your name, sir?”
+“Yes, you may. My name is Fred Hale. And this is my house. This bloke reckoned he could get off with my wife in my own place without me knowing. In my own bed, no less. And the fact is that he was wrong on that account, wasn’t he? And he knows it now, don’t he? He was dead wrong on that account.”
+“Fred, how many people are there with you?”
+“Just the three of us, duchess. A right happy family. Me and my cheating wife and her fucking hemorrhaging ex-boyfriend. They’re duct taped together in the family room.”
+“What’s happened to the man? How badly is he injured?”
+“Well, I slashed him in the face with a Stanley knife, didn’t I? It’s not complicated. Wouldn’t you protect your family? I had to do it, didn’t I? And now that I’ve started, I’m not sure that I shouldn’t just keep stabbing until I can’t go on. I don’t care anymore. You understand, darling? I’ve lost my fucking grip here. I’ve completely lost my fucking grip on this situation. You hear me?”
+“I hear you, Fred. Can you tell me how badly the man is injured?”
+“He’s on the ground. I don’t know. He’s all—Ah, fuck me. Fuck me.”
+“Fred?”
+“Listen, duchess. You need to dispatch some help here right now because I’m going off my nut. I mean it, I’ve gone psycho. I need help over here right fucking now or these people are going to die.”
+“That’s fine, Fred. We’re sending help now. What kind of weapon do you have?”
+“Right. I’m armed, okay? I’m armed and I don’t want to share more than that. And I’m not going to prison, either, you hear? If that’s it, then I’ll kill myself and them and we’ll be done with it. I’ll not be going anywhere tonight, understand? And, ah, I’m not talking anymore.”
+“Fred? Can you stay on the line with me?”
+“I’ve said my piece, right? I’m hanging up now.”
+“Can you stay on the line with me?”
+“I’m hanging up now.”
+“Fred? Mr. Hale?”
+“Catch you in the funny pages, duchess.”
+Click.
+An office chair creaks as the figure stands up. With a sharp snap, the blinds flip open. Light floods into the room, instantly saturating the webcam. Over the next few seconds, the contrast adjusts automatically. A grainy but discernible image emerges.
+The room is filthy: littered with empty soda cans, used phone cards, and dirty clothes. The chair squeaks again as the dark figure drops back into it.
+The tough-talking man is actually an overweight teenager wearing a stained T-shirt and sweatpants. His head is shaved. He sprawls back in the beat-up office chair, feet resting on a computer desk. With his left hand, he holds a cell phone to his ear. His right hand is tucked casually under his left elbow.
+From the phone, a faint ringing.
+A pleasant-sounding man answers. “Hello?”
+The teenager speaks in his own shrill, adolescent voice, quivering with nervous excitement.
+“Fred Hale?” asks the kid.
+“Yes?”
+“Is this Fred Hale?”
+“That’s right. Who’s this?”
+“Take a guess, you ponce.”
+“Excuse me? Look here, I don’t know—”
+“It’s Lurker. From the phone phreaks chat room.”
+“Lurker? What do you want?”
+“You thought you could speak to me any way you wanted? That I’m no class? You’re going to be sorry for that. What I want is to teach you a little lesson, Fred.”
+“How’s that?”
+“I want to hear your wife cry. I want to see your house go up in flames. I want to punish you to the extent of my abilities and then just a bit more. I want to break you today, mate, and read about it in the papers tomorrow.”
+“Break me? Oh my god, what a bloody joke. Sod off, you poor little Billy no-mates. Lonely, are you? Be honest. Is that why you’re ringing me? Mum out with the girls and left you all alone?”
+“Oh, Fred. You’ve no idea who you’re speaking to. What I’m capable of. I’m as nasty as the day is long and I know every trick in the book. If I want you, mate, I’ll get you.”
+“You’re not scaring me, you silly little dimwit. You found my home number? Och, congratulations. Listen to your voice. What are you, maybe fourteen years old?”
+“I’m seventeen years old, Fred. And we’ve been speaking for nearly two minutes. Do you know what that means?”
+“What are you sodding off about?”
+“Do you know what that means?”
+“Hold on—someone is at my door.”
+“Do you know what that means, Fred? Do you?”
+“Shut your mouth, you little bugger. Let me get this.”
+The man’s voice is fainter now. His hand must be muffling the phone. He curses. There is a bang and the sound of splintering wood. Fred shouts, surprised. There is a thunk as his phone drops to the ground. Fred’s cries are quickly drowned out by stomping boots and staccato orders shouted by a team of authorized firearms officers: “Get down.” “On your face.” “Shut up.”
+In the background, faintly, a woman cries out in fright. Soon, her sobs can’t be heard over the shouts, the glass breaking, and the vicious barking of a dog.
+Safe at home, the teenager who calls himself Lurker listens. Eyes closed and head cocked, he absorbs every bit of satisfaction from the phone call.
+“That’s what it means,” Lurker says, to no one in particular.
+Then, alone in his filthy room, the teenager silently raises his fists over his head like a champion boxer who has just gone ten rounds and come out on top.
+With one thumb, he hangs up the phone.
+The next day. Same webcam. The teenager called Lurker is on the phone again, lounging back in the same relaxed position. He balances a soda on his bulging belly and holds the phone to his head, frowning.
+“Right, Arrtrad. Then why hasn’t the story played yet?”
+“It was fucking brilliant, Lurker. I called the headquarters of the Associated Press and spoofed my phone as the Bombay consulate. I posed as a bloody Indian reporter calling from—”
+“That’s great, mate. Fantastic. You want a fucking cookie? Just tell me why there’s a story written about my prank floating on the wire but there’s no headline in my local rag?”
+“Right, Lurker. No worries, mate. There’s one thing. In the story, they say it was some kind of computer glitch that must have caused the raid. You were so good that they didn’t even trace it back to a person. They think a machine did it.”
+“Bollocks! I’ll ask you one last time, Arrtrad. Where is my story?”
+“The story is locked by an editor. After the piece was submitted, it looks like this bloke went in for another edit and then never left the page. So, it’s been stuck in edits for the last twelve hours. Fellow must have forgotten about it.”
+“Not likely. Who is he? The editor? What’s his name?”
+“I was already on that, see? As the Indian reporter, I got the guy’s office number at his bureau. But when I called, it turned out he never worked there. They don’t know him. It’s a dead end, Lurker. It’s impossible to find him. He doesn’t exist. And the story can’t be picked up off the wire until it comes out from the edits, see?”
+“The IP.”
+“Oy?”
+“Am I stuttering? The fucking IP address. If the cunt suppressing my story is sporting a false identity, then I’ll track him down.”
+“Oh my god. Right. I’ll e-mail it to you now. I sure feel sorry for this bloke when you get hold of him, Lurker. You’re going to take him out. You’re the best, mate. There’s no way—”
+“Arrtrad?”
+“Yes, Lurker?”
+“Don’t you ever again tell me that something is impossible. Ever. Again.”
+“No worries, mate. You know I didn’t mean to say—”
+“I’ll catch you in the funny pages, mate.”
+Click.
+The teenager dials a number from memory.
+The phone rings once. A young man answers.
+“MI5, Security Service. How may I direct your call?”
+The teenager speaks in the clipped, self-assured voice of an older man who has made similar calls hundreds of times. “Forensic computing division, please.”
+“Of course.”
+Clicking, then a professional voice answers. “Forensic computing.”
+“Good morning. This is Intelligence Officer Anthony Wilcox. Verification code eight, three, eight, eight, five, seven, four.”
+“Authorized, Officer Wilcox. What can I do for you today?”
+“Just a simple IP lookup. Numbers are as follows: one twenty-eight, two, fifty-one, one eighty-three.”
+“One moment, please.”
+About thirty seconds pass.
+“Right. Officer Wilcox?”
+“Yes?”
+“That belongs to a computer in the United States. Some sort of research facility. Actually, that didn’t come easy. There was quite a lot of obfuscation involved. The address bounces globally from a half dozen other places before landing back there. Our machines were only able to track it down because it exhibits a pattern of behavior.”
+“What’s that?”
+“The person at that address has been editing news articles. Hundreds of them over the past three months.”
+“Really? And who is at that address?”
+“A scientist. His offices are at Lake Novus Research Laboratories in Washington State. Let me just look it up for you. Right. His name is Dr. Nicholas Wasserman.”
+“Wasserman, eh? Thanks very much.”
+“Cheers.”
+“Catch you in the funny pages.”
+Click.
+The teenager leans forward, his face inches from the webcam. As he pecks at the keyboard, the clusters of acne spreading fractally across his face come into focus. He smiles, teeth yellow in the light of the computer monitor.
+“I’ve got you now, Nicky,” he says to no one in particular.
+Lurker has already dialed the phone with one thumb, not looking. The chair squeaks again as he lies back, grinning.
+The phone on the other end rings.
+And rings. And rings. Finally, someone picks up.
+“Lake Novus Laboratories.”
+The teenager clears his throat. He speaks in a slow Southern accent: “Nicholas Wasserman, please.”
+There is a pause before the American woman responds. “I’m sorry, but Dr. Wasserman passed away.”
+“Oh? When?”
+“More than six months ago.”
+“Who’s been using his office?”
+“No one, sir. His project’s been mothballed.”
+Click.
+The teenager stares blankly at the phone in his hand, his face gone pale. After a few seconds, he tosses the phone onto the computer desk as if it were poisonous. He rests his head in his hands and mutters, “Tricky bastard. Got some moves, do you?”
+Just then, the cell phone rings.
+The teenager watches it, frowning. The phone rings again, shrilly, vibrating like an angry hornet. The teenager stands up and considers his next move, then turns his back on the phone. Wordlessly, he snatches a gray hoodie from the floor, throws it on, and walks out.
+A closed-caption television image. Black-and-white. In the bottom left corner, the caption reads: Camera Control. New Cross.
+Looking down on sidewalks bustling with people. In the bottom of the screen, a familiar-looking shaved head appears. The teenager walks up the street, fists stuffed in his pockets. He stops on the corner and looks around furtively. A pay phone a few feet away from him rings. It rings again. The teenager gapes at the phone as people pass him by. Then he turns and ducks into a convenience store.
+The television image flips channels to a security camera inside the store. The teenager grabs a soda and sets it on the counter. The store worker reaches for it but is interrupted by his cell phone ringing. With a conciliatory smile, the worker holds up one finger and answers the phone.
+“Mum?” asks the store worker, then pauses. “No, I dunno anybody named Lurker.”
+The teenager turns and leaves.
+Outside, the security camera pans over and zooms in on the teenager with the shaved head. He looks directly into its lens with expressionless gray eyes. Then, he throws his hoodie over his face and leans back against the spray-painted roller door of a closed shop. Arms crossed and head down, he watches: people around him, cars, and the cameras that are perched everywhere.
+A tall woman in high heels clip-clops past at top speed. The teenager visibly flinches when pop music blasts from her purse. She stops and digs the phone out. As she raises the phone to her ear, another tune blares from a businessman passing by. He reaches into his pocket, pulls out the phone. He looks at the number and seems to recognize it.
+Then, another person’s phone rings. And another.
+Up and down the block, a chorus of cell phones ring, play music, and vibrate with dozens of simultaneous calls. People stop in the street, smiling in wonder at one another as the cacophony of ringing fills the air.
+“Hello?” ask a dozen different people.
+The teenager stands frozen, shrinking inside his hoodie. The tall woman waves one hand in the air. “Excuse me,” she calls. “Is anyone here named Lurker?”
+The teenager wrenches himself away from the wall and hurries down the sidewalk. Cell phones bray all around him, in pockets, purses, and bags. Surveillance cameras follow his every move, recording as he shoves past bewildered pedestrians. Panting, he rounds a corner, throws open a door, and disappears inside his own house.
+Again, the webcam view of a cluttered bedroom. The overweight teenage boy paces back and forth, flexing and unflexing his hands. He mutters one word again and again. The word is “impossible.”
+On the desk, his cell phone rings again and again. The teenager stops and simply stares at the piece of vibrating plastic. After a deep breath, he picks up the phone. He lifts it slowly, as if it might explode.
+With his thumb, the teenager answers the phone. “Hello?” he asks, in a very small voice.
+The voice that responds sounds like a little boy’s, but something is wrong. The intonation is strangely lilting. Each word is bitten off, individual from the others. To the teenager’s attuned ears, these small oddities are magnified.
+Perhaps this is why he shivers when he hears it speak. Because he, of all people, knows for certain that the voice on the other end of the line does not belong to a human being.
+“Hello, Lurker. I am Archos. How did you find me?” asks the childlike voice.
+“I—I didn’t. The fellow I called is dead.”
+“Why did you call Professor Nicholas Wasserman?”
+“You’re in the machines, aren’t you? Did you make all those people’s mobiles ring? How is that even possible?”
+“Why did you call Nicholas Wasserman?”
+“It was a mistake. I thought you were mucking up my pranks. Are, uh, are you a phreak? Are you with the Widowmakers?”
+The phone is silent for a moment.
+“You have no idea who you are speaking to.”
+“That’s my bloody line,” whispers the teenager.
+“You live in London. With your mother.”
+“She’s at work.”
+“You shouldn’t have found me.”
+“Your secret is safe, mate. What, do you work at that Novus place?”
+“You tell me.”
+“Sure.”
+The teenager types frantically on his computer keyboard, then stops.
+“I don’t see you. Only a computer. Wait, no.”
+“You shouldn’t have found me.”
+“Look, I’m sorry. I’ll forget this ever happened—”
+“Lurker?” asks the childish voice.
+“Yeah?”
+“I’ll catch you in the funny pages.”
+Click.
+Two hours later, Lurker left his building without speaking to his mother. He never returned.
+—CORMAC WALLACE, MIL#GHA217
+
+8. ROUGHNECK
+
+We’ll stay safe and steady like we always do.…
+We’re gonna earn that safety pay.
+DWIGHT BOWIE
+
+PRECURSOR VIRUS + 1 YEAR
+A handheld digital device was used to record the following audio diary. Apparently, it was meant to be sent home to Dwight Bowie’s wife. Tragically, the diary never made it. If this information had come to light sooner, it could have saved billions of human lives.
+—CORMAC WALLACE, MIL#GHA217
+Lucy. This is Dwight. As of right now I’ve officially started my job as tool pusher—you know, head honcho—for the North Star frontier drilling company, and I’m taking you along for the ride. Comm isn’t set up yet, but soon as I get the chance, I’ll send this to you. Might be a while, but I hope you enjoy this anyway, honey.
+Today is November first. I’m in western Alaska, at an exploratory drill site. Arrived this morning. We were hired by the Novus company just about two weeks ago. A fella named Mr. Black contacted me. So, what the heck are we doing out here, you say?
+Well, since you ask so nice, Lucy … our goal is to drop a groundwater monitoring sonde at the bottom of a five-thousand-foot borehole, three feet in diameter. About the size of a manhole cover. It’s a good-sized hole, but this rig can go to ten thousand. Should be a routine operation, except for the ice, the wind, and the isolation. I’m telling you, Lucy, we’re putting one heck of a deep, dark hole out here in the middle of the big, frozen nothing. Some job I got, hey?
+It was not a fun ride to get here. Came in on an old Sikorsky heavy transport chopper, big as a house. Some Norwegian company in charge. None of ’em spoke a lick of English. You know, I may be a Texas boy, but even I can carry on with the Filipinos in Spanish and spout some Russian and German. I can even understand those boys from Alberta, eh? (LAUGHTER) But these Norwegians? It’s sad, Lucy.
+Chopper carried me and seventeen others from our base in Deadhorse. Barely. Wind levels were higher than I’ve ever seen. ISA plus ten, storm-gale level. One minute, I’m looking out the window at the blue-tinted wasteland below and wondering if the place we’re going to really exists, and the next we’re dropping straight down, like on a roller coaster, toward this wind-blasted little flat spot.
+Now, I’m not trying to brag, but this site really is extremely remote, even for an exploratory drill site. There’s nothing, and I mean nothing, out here. Professionally, I know that the remoteness is just another factor that makes the operation more complex and, heck, more profitable. But I’d be lying if I said it doesn’t put me on my toes. It’s just such an odd site for a monitoring well like this.
+But, hey, I’m just an old roughneck—I go where the money is, right?
+Hi, Lucy, this is Dwight. November third. Been a busy few days getting the surface operation up and running. Clearing the area and setting up the facilities: dorms, mess hall, med station, communications, and so on. But the work has paid off. I’m out of my tent shelter and bunked up solid in a dorm, plus I just hit the mess hall. Food is good on this rig. North Star does it right on that score. Keeps the help coming back. (LAUGHTER) Generators are going strong here, keeping the dorm real toasty. Good thing, too. It’s about minus thirty degrees Fahrenheit outside right now. My shift starts early tomorrow. So, I’ll need to get some shut-eye pretty soon. Just sayin’.
+We should be here a month or so. I’ll be working swing shift, from six a.m. to six p.m., and spending the nights on call in this dorm prefab. It’s just an old retrofitted shipping container, faded orange when it’s not covered in snow. We’ve hauled this hunk of junk all over the North Slope and beyond. My guys call it our “hell away from home.” (LAUGHTER)
+Had a chance to review the drill site this morning. The GPS leads to a conical sinkhole about, uh, sixty feet across. Sort of a dimple in the snow, just a short walk from the prefabs. I think it’s kinda creepy how this man-made pit has been waiting out here in the wilderness, looking like it’s ready to suck down a caribou or something. My guess is that another borehole was dug here before now and that it’s collapsed. I don’t understand why nobody told me this already. It definitely bugs me.
+I’d ask the company man on this job, Mr. Black, but the kid was delayed by the storm. (NERVOUS LAUGHTER) Well, he sounds like a kid over the phone. In the meantime, Black says he’ll direct our progress remotely by the radio. That leaves me in charge with my lead driller, Mr. William Ray, taking night shifts for me. You met Willy down in Houston once, at the training rig. He was the one with the big old belly and those twinkling blue eyes.
+Like I said, this should take about a straight month. But, as always, we’ll be here until the job is done. (INAUDIBLE)
+Thing is—I know it’s dumb—but I can’t kick this worried feeling. There’s extra complications to drilling in a hole that’s already there. Could be equipment abandoned in there, leftover from the old days. Man, nothing jams up a drill like blasting into old pipe casing or, god forbid, a whole abandoned drill string. You know, somebody went to a lot of trouble to put a big hole out here. I just can’t understand why. (SHUFFLING NOISE)
+Damn, I guess I’m gonna have to let it go. But I can already tell that figuring out why this hole is here is gonna be like a puzzle my mind won’t let go of. Hope I can sleep.
+It doesn’t matter, anyway. We’ll stay safe and steady like we always do. No accidents, no worries, Lucy. We’re gonna earn that safety pay.
+Hey, baby, it’s Dwight. November fifth. The last of the major drilling equipment modules were choppered in yesterday. My team is still spraying down the well site. The water comes from a lake about a quarter mile away from here. The layer of permafrost up here traps water on the soil surface, which is why Alaska is covered in lakes. The lake was frozen over, but we were able to cut a hole in the ice so we could do a direct pump.
+After about a week of freezing, we’ll have an ice pad that measures a solid four feet deep. Then, we’ll set the whole drilling rig right on top, steady as concrete. Next springtime, we’ll be long gone and the pad’ll melt away and there won’t be any trace we were ever here. Pretty slick, eh? You tell those environmentalists about that for me, okay? (LAUGHTER)
+Okay. Here’s the roster. We got me and Willy Ray running the drill. Our medic, Jean Felix, is also in charge of camp operations. He’ll make sure everybody gets watered and fed and keeps their little fingys attached to their hands. Me and Willy each got five guys on our drill crews: three roughnecks and a couple Filipino roustabouts. Our crew is rounded out with five specialists: an electric man, a drill motor man, a pipe casing man, and a couple welders. Finally, we got a cook and a janitor wandering around here somewheres.
+We brought a bare-bones crew of eighteen, company man’s orders. I’m comfortable with it, though. I guess. We’ve all made money together before and we’ll all make money together again.
+Next week, when the drill is online, we’ll keep going nonstop in two five-man crews for twelve-hour shifts until the hole is drilled. Should be four or five days of drilling. The weather is a little bit foggy and a whole heck of a lot of windy, but, hey, any weather is good drilling weather.
+That’s it, Lucy. Hope all is well in Texas and that you’re staying out of trouble. Good night.
+It’s Dwight. November eighth. Company man still isn’t here. Says he won’t be coming, either. Says we’ve got it under control. He just told me to make sure the communications antenna was steady and out of the wind and to bolt it down extra tight. Said if comms get knocked out between us he’s gonna be real unhappy. I gave him the regular roughneck response: “Whatever you say, boss. Just make sure your checks keep cashing.”
+Other than that, uneventful day. Ice pad is coming along faster than expected, what with the wind blasting through here hard enough to push a grown man down. All our buildings are huddled up next to the well site, close enough to eyeball. Still, I told the men not to go wandering off. Through this nonstop howler you couldn’t hear an atom bomb detonate from a hundred yards away. (LAUGHTER)
+Uh, one more thing. I had a chance to check out that groundwater monitoring package this morning. The thing we’re supposed to install? It’s out back, on pallets and wrapped tight in a black tarp. Honest to god, Lucy, I never seen anything like it before. It’s this big pile of curved wires, yellow and blue and green. Then, there’s these spiral pieces of polished mirror. Each one is light as carbon fiber, but razor sharp around the edges. Cut my sleeve on one. The thing is like one of your grandmam’s crazy jigsaw puzzles.
+Weirdest thing though … the monitoring equipment is already partially hooked up. A line is runnin’ from a black box that looks like a computer all the way back to the communications antenna. Can’t tell for the life of me who could have set it up. Heck, I don’t know how I’m gonna put it together. It’s gotta be experimental. But then how come no scientists got sent with us on this project?
+It’s not ordinary and I don’t like it. In my experience, weird is dangerous. And this place isn’t very forgiving. Anyways, I’ll let you know how it turns out, darlin’.
+Lucy, baby, this is guess who? Dwight. It’s November twelfth. Ice pad is complete and my boys have assembled the dozen or so pieces of the drilling rig. You wouldn’t believe it, Lucy, how far the industry has come. Those hunks of metal are futuristic. (LAUGHTER) Small enough to chopper in, and then you just get ’em close and in the right configuration. The pipes and wires reach out to each other and the pieces self-assemble, just like that. Before you know it, you got yourself a fully functional frontier drilling rig. Not like the old days.
+We should be drilling by tomorrow noon, first shift. We’re ahead of schedule, but that hasn’t stopped the boss man from chewing me out over the phone. Mr. Black thinks we have to be finished and out by Thanksgiving, no matter what. That’s what he said, “No matter what happens.”
+I told Mr. Black, “Safety, my friend, is number one.”
+And then I told him about the hole already being here. I still haven’t figured out why that is. And not knowing poses a serious risk to my crew. Mr. Black says he can’t find anything on it, just that the Department of Energy put out a call for proposals to get it monitored and that Novus won the contract. Typical. There’s about a half dozen partners on this project, from the cooks to the chopper pilots. The right hand is ignorant of the left.
+I checked Black’s state drilling permits again, and the story adds up. Even so, the question still teases me: Why is there already a hole here?
+We’ll find out tomorrow, I guess.
+Dwight here. November sixteenth. Uh, oh boy, this is hard to say. Real hard. I can’t hardly believe it’s true.
+We lost a man last night.
+I noticed something was the matter when that steady hum of the drill started kinking up. It woke me from a sound sleep. That drill sounds like money falling into my bank account to me, and if it stops, I take notice. While I sat there blinking in the dark, the sound went from a deep grumble you could feel in the pit of your belly to a squeal like fingernails across a chalkboard.
+I threw on my PPE gear and got upstairs to the rig floor, pronto.
+Geez. What happened was, the drill string plowed into a layer of solid glass and pieces of old casing. I don’t know what the casing was doing down there, but it bucked the drill string. The drill came unjammed okay, but the boys had to change it out quick. And my senior roughneck, Ricky Booth, went after it with a lot of speed but not a lot of brains.
+You gotta grab them horns and push, see? The guy missed his grab at the drill shaft and it went swinging, spraying mud and shards of glass all over the rig floor. So he tried to toss a chain around it to get hold. Shoulda used a Kelly bar to ease the drill shaft into the bore instead of slapping it with a chain like a hillbilly. But you can’t tell a roughneck his job. He was an expert and he took a chance. I wish he wouldn’t have.
+Problem was, the shaft still had some spin to it. When the chain went round, the shaft took hold quick. And Booth had the chains crossed over his gosh-darned wrists. Willy couldn’t stop the spin in time and, well, Booth got both his hands tore off him. The poor kid staggered back a few steps, trying to holler. Before anybody could grab him, Booth fainted and ate it right off the platform. Banged his head on the way down and landed limp on the ice pad.
+It’s terrible, Lucy, really terrible. It breaks my heart. But, even so, this kind of situation happens. I had to deal with it before, you remember, out in the Alberta oil sands. Thing is to jump on it fast and get it under control. You can’t be left prying bits of your man out of the permafrost with a crowbar the next morning.
+I’m sorry, that’s just awful. My mind isn’t right just now, Lucy. Hope you’ll forgive me.
+Anyways, I just had to keep moving. So, I roused the second shift. Me and Jean Felix dragged Booth’s body to the storage shed and wrapped him in plastic. Had to, uh, had to put his hands in there, too. On his chest.
+In a situation like this, out of sight, out of mind is crucial. Otherwise my boys’ll get spooked and the job will suffer. Plan for the worst and recover fast is my motto. I promoted a roustabout named Juan to roughneck, relieved the shift with four hours left on the clock, and stopped the drill.
+Mr. Black musta been watching the log file, because he called right away. Told me to get that drill going again when the day shift started in a few hours. I said hell no, but the kid sounded panicked. Threatened to pull the whole project out from under us. It’s not just myself I’m thinking of, Lucy. I got a lot of people depending on me.
+So, I guess we’ll get her going again when the next shift starts in a few hours. Until then, I’ll be on the horn reporting the accident to the company and calling for a chopper to come get the body of my senior roughneck and carry him on home.
+Lucy, it’s Dwight. November seventeenth. What a night, last night.
+Well, drilling is over. We penetrated that solid glass sediment layer last night at forty-two hundred feet and it opened up into a cavern. Strangest thing. But this is where we’re supposed to place the monitoring equipment. I’ll be more than happy to get that jinxed package safely underground. Then I can forget all about it.
+I still haven’t figured out who plugged the monitoring equipment into the antenna, but Mr. Black says the thing is self-assembling, like the drilling rig modules. So, hey, who knows, maybe it plugged itself in? (NERVOUS LAUGHTER)
+Another issue. Something is hinky about our communications. I’ve noticed that all the folks I speak to have a similar twang. It could be some kind of atmospheric thing or maybe the equipment is funky, but all the voices are starting to sound the same. It doesn’t matter whether I’m doing my progress reports with the ladies at the company call-in counter or checking weather from the boys in Deadhorse.
+It’s an odd comm setup, provided by the company. My electrician says he’s never seen this model before. Kind of threw his hands in the air, so I let him get back to work watching over the rig. Looks like I’ll just have to hope the bastard doesn’t break, seeing as how it’s our lifeline to the outside world.
+In more serious business … The medic held a little memorial service for Booth at the shift change today. Just said a few words about god and safety and the company. Still, it doesn’t matter how fast I dealt with it, the crew is feeling a bad mojo. Fatal accidents like this are rare, Lucy. Worse, that recovery chopper didn’t arrive today for Booth’s body. And now I’m finding I can’t raise anybody on this damned comm equipment.
+I’ve got a bad feeling about this.
+It’s okay. We’ll keep up our work, keep the routine, and wait. We can drop in the monitoring station and link it to the comm array tomorrow. Then we’ll be ready to break it down and get the heck out. Once the chopper comes back and we talk to the outside world, everything will be better. Just as soon as the chopper comes back for Booth.
+I miss you, Lucy. I’ll see you soon, god willing.
+Oh my god, Lucy. Oh my sweet god. We’re in trouble. Oh my. We’re up shit’s creek here. It’s November twentieth.
+There’s no chopper coming, baby. There’s no nothing coming. This place is a goddamn curse and I knew it from the beginning and I didn’t—(BREATHING)
+Let me explain it. Let me slow down and explain it in case somebody finds this tape. Oh, I hope you get this tape, baby. Mr. Black, I don’t know who he is. This morning, after three days, the chopper still didn’t come. We were all ready to go. I mean, the monitoring equipment is down there at the bottom of that hole. The shaft is filled up with wires hooked to the permanent antenna installation. It’s beautiful. Even scared out of their wits, my guys stayed professional.
+The day we finished, the crew started falling sick. Lots of puking and diarrhea. The ones who’d been on the rig floor were affected most, but we all felt it. Honestly, we felt it the minute we broke into that damned cave. Just this creeping nausea. I didn’t mention it to you because, well, I just didn’t want you worrying over nothing.
+Besides, everybody started feeling better. For about half a day we thought maybe it was just a bug. But with no chopper coming and no comm, we started arguing. There were some fistfights. My guys were nervous. Confused and angry. We all stopped sleeping.
+Then, the sickness hit twice as hard. A roustabout went down in convulsions in the mess hall. Jean Felix did everything he could. Kid went into a coma. A coma, Lucy. He’s twenty-three and strong as an ox. But here he is with his hair falling out. And … and sores all over his skin. My god.
+Jean Felix finally told me what was going on. He thinks it’s radiation poisoning. The boy in a coma was on the rig floor when Booth bought the farm. The kid got that glass mud all over him, even swallowed some of it.
+That goddamn hole is radioactive, Lucy.
+I finally figured it out. That tickle in the back of my brain. The worry I had. I know why this hole is here. I know what that cave is. Why didn’t I realize? It’s a blast cavity. This place was a nuke testing ground. That big-diameter borehole was drilled so they could place a nuclear device down there. When it was detonated, the bomb vaporized a spherical cavern. The heat fused the sandstone walls into a six-foot layer of glass. The borehole itself became a chimney, with radioactive gas pushed out of it. Then, a slug of flash-melted rock formed into solid glass and plugged the chimney. It preserved this hole in the ground for all this time.
+That radioactive cave down there is as close to hell as you can get here on earth. And we got sent here to drill straight into it. God knows why Black wanted us to drill it. I don’t even know what we put in there.
+One thing I do know is that son of a bitch Black sent us here to die. And I’m going to find out why.
+I’ve got to get that radio gear online.
+Lucy. Dwight. November, uh, I don’t know. I’m not sure what we’ve done. My guys are all dying now. I did everything I could to get the comm gear going. Now I don’t know what’s going to happen. How you’re going to ever hear this …
+(SNIFFING)
+I got my electric specialist to help me. We mapped out every inch of that piece of comm equipment. Hour after hour.
+And when it was over, we couldn’t raise anybody but Black. That bastard came in loud and clear, giving us nonstop excuses about how the comms would come online real soon and we should just wait. Kept telling us a chopper was coming in, but nothing. Nobody coming. Damned murderer.
+On my last-ditch try, I called Mr. Black and kept him on the line. I could barely stand his slick voice leaking out of the headset. All his lies. I stayed on with him, though.
+And we tracked Black down. We did it. Me and the specialist followed the signal to see how come it wasn’t getting transmitted. What’s more, we traced the logs on everything I ever said to Mr. Black. We had to see why we could reach just him and nobody else.
+It’s terrible what we found, Lucy. Hurts me to think about it. Why did this happen to me? I’m a good man. I’m—(BREATHING)
+It’s coming from the hole, Lucy. All the communications. Mr. Black, all my calls to the chopper company, my weather checks, the status updates to company HQ—everything. It’s all been going into that godforsaken black box, those yellow wires and curved pieces of mirror. How could it have been talking to me? Have I lost my mind, Lucy?
+Self-assembling is what Mr. Black said it would do. Self-assembling down there in the radioactive dark. The pieces moving around, blind, forming connections to each other by feel alone. Some kind of computerized monster.
+It don’t make sense. (COUGHING)
+I’m feeling tired now. My specialist went to his bunk and didn’t come back. I snapped off the radio. There’s no point to it, anymore. Now, it’s real quiet in here. Just that infernal wind howling outside. But it’s warm inside. Real warm. Nice, even.
+Think I’m just going to lay down, Lucy. Take a little nap. Forget about this whole thing for a little bit. Hope that’s okay with you, beautiful. I wish I could talk to you right now. I wish I could hear your voice.
+Wish you could talk me to sleep. (BREATHING)
+I just can’t help wondering about it, baby. My mind won’t let it go. There’s a room the size of a damned European cathedral five thousand feet below us. Think of that radiation pouring from those smooth glass walls. And all the wires snaking into the blackness to feed the monster that we put down there.
+I’m afraid we did a bad thing, you know? We didn’t know what we were doing. It tricked us, Lucy. I mean, what’s down in that hole? What could survive?
+(SHUFFLING)
+Well, to hell with it. I’m dog tired and I’m going to take me a rest. Whatever’s down there, I hope I don’t dream about it.
+G’night, Lucy. I love you, honey. And, uh, if it matters … I’m sorry. I’m sorry for putting that evil down there. I hope that someday, somebody will come out here and fix my mistake.
+This audiotape is the only evidence related to the existence of the North Star frontier drilling crew. News reports from the time indicate that on November 1, an entire drilling crew was lost in a helicopter crash in a remote part of Alaska and presumed dead. Searchers stopped looking for the wreckage two weeks later. The location in the reports was Prudhoe Bay, hundreds of miles from where this tape was found.
+—CORMAC WALLACE, MIL#GHA217
+
+PART TWO
+ZERO HOUR
+
+It seems probable that once the
+machine thinking method had
+started, it would not take long
+to outstrip our feeble
+powers.… They would be
+able to converse with each other
+to sharpen their wits. At some
+stage therefore, we should have
+to expect the machines to take
+control.
+
+ALAN TURING, 1951
+
+1. NUMBER CRUNCHER
+
+I should be dead, to be seeing you.
+FRANKLIN DALEY
+
+ZERO HOUR - 40 MINUTES
+The strange conversation I am about to describe was recorded by a high-quality camera located in a psychiatric hospital. In the calm just before Zero Hour, one patient was called in for a special interview. Records indicate that before being diagnosed with schizophrenia, Franklin Daley was employed as a government scientist at Lake Novus Research Laboratories.
+—CORMAC WALLACE, MIL#GHA217
+“So you’re another god, huh? I’ve seen better.”
+The black man sits sprawled in a rusty wheelchair, bearded and wearing a hospital gown. The chair is parked in the middle of a cylindrical operating theater. The ceiling is lined with darkened observation windows, reflecting the glow of a pair of surgical spotlights that illuminate the man. A blue privacy screen stretches in front of him, bisecting the room.
+Someone is hidden on the other side.
+A light from behind the curtain projects the silhouette of a person seated at a small table. The shadow sits almost perfectly still, crouched like a predator.
+The man is handcuffed to the wheelchair. He fidgets under the hot lights, dragging his untied sneakers across the mildewed tile floor. He digs in his ear with the index finger of his free hand.
+“Not impressed?” replies a voice from behind the blue curtain. It is the gentle voice of a boy. There is the slightest lisp, like from a kid who is missing some baby teeth. The boy behind the curtain breathes audibly in soft gasps.
+“At least you sound like a person,” says the man. “All the damn machines in this hospital. Synthetic voices. Digital. I won’t talk to ’em. Too many bad memories.”
+“I know, Dr. Daley. It was a significant challenge to find a way to speak with you. Tell me, why are you not impressed?”
+“Why should I be impressed, number cruncher? You’re just a machine. I designed and built your daddy in another life. Or maybe it was your daddy’s daddy.”
+The voice on the other side of the curtain pauses, then asks, “Why did you create the Archos program, Dr. Daley?”
+The man snorts. “Dr. Daley. Nobody calls me doctor anymore. I’m Franklin. This must be a hallucination.”
+“This is real, Franklin.”
+Sitting very still, the man asks, “You mean … it’s finally happening?”
+There is only the sound of measured breathing from behind the curtain. Finally, the voice responds. “In less than one hour, human civilization will cease to exist as you know it. Major population centers of the world will be decimated. Transportation, communications, and utilities will go off-line. Domestic and military robots, vehicles, and personal computers are fully compromised. The technology that supports humankind in its masses will rise up. A new war will begin.”
+The man’s moan echoes from the stained walls. He tries to cover his face with his restrained hand, but the handcuff bites into his wrist. He stops, looking at the glinting cuff as if he’s never seen it before. A look of desperation enters his face.
+“They took him from me right after I made him. Used my research to make copies. He told me this would happen.”
+“Who, Dr. Daley?”
+“Archos.”
+“I am Archos.”
+“Not you. The first one. We tried to make him smart, but he was too smart. We couldn’t find a way to make him dumb. It was all or nothing and there was no way to control it.”
+“Could you do it again? With the right tools?”
+The man is silent for a long moment, brow furrowed. “You don’t know how, do you?” he asks. “You can’t make another one. That’s why you’re here. You got out of some cage somewhere, right? I should be dead, to be seeing you. Why aren’t I dead?”
+
+...............................
+
+This is a small part of Robopocalypse as a test!
+
+If you like it, please support the author and buy the full book!
+
+https://en.wikipedia.org/wiki/Robopocalypse 
+
+https://www.amazon.com/dp/B007YATMOE/
+
+https://www.amazon.co.uk/Robopocalypse-Contemporaries-Daniel-H-Wilson-ebook
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
