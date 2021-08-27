@@ -1,8 +1,8 @@
 # M5Stack Paper: E-Book reader
 This is a very simple prototype E-Book reader for the M5Stack Paper.
 
-It comes with a small sample of the start of Robopocalypse as a test!. I loved the book and read a lot of the authors stories. He's worth a look.       
-If you like it, please support the author and buy the full book!                 
+It comes with a small sample of the start of Robopocalypse as a test. He's worth a look.       
+If you like it, please support the author and buy the full book.                 
 https://en.wikipedia.org/wiki/Robopocalypse                 
 https://www.amazon.com/dp/B007YATMOE/                   
 https://www.amazon.co.uk/Robopocalypse-Contemporaries-Daniel-H-Wilson-ebook                      
