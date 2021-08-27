@@ -37,8 +37,6 @@ Push (hold for 4 seconds): On / Off
 
 
 <p align="center" width="100%">
-    The E-Reader in action:                        
-    
     <img width="33%" src="https://user-images.githubusercontent.com/1586332/131074409-0bc8815d-7d46-448b-8ae6-1407bf49db1f.jpg">
 </p>
 
