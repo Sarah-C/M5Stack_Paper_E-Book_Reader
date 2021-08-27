@@ -23,7 +23,7 @@ Push (hold for 4 seconds): On / Off
 3. Fast page drawing.
 4. Date/Time and "page of pages" bar at the bottom.
 
-I've also coded it to be accessible to all devs - I've not split it out into classes or used much in the way of dynamic allocation or pointer/reference useage, it's just a single familiar Arduino .ino file. It's quite short too. That means adding features like touch navigation, SD card browsing, font changing - can all be experimented with, while avoiding plunging headlong into polymorphism, encapsulation, multiple inheritence, abstract classes, pure virutal functions, advanced data abstraction, and so on. (yikes!)
+I've also coded it to be accessible to all devs - I've not split it out into classes or used much in the way of dynamic allocation or pointer/reference useage, it's just a single familiar Arduino .ino file. It's quite short too. That means adding features like touch navigation, SD card browsing, font changing - can all be experimented with, while avoiding plunging headlong into polymorphism, encapsulation, multiple inheritence, abstract classes, pure virutal functions, advanced data abstraction, templates and so on. (yikes!)
 
 **Features for the future:______**
 1. A Micro SD card browser to select the book you want to read.
